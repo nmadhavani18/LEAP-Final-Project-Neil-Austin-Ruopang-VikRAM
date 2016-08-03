@@ -1,0 +1,6080 @@
+
+G21 (All units in mm)
+
+(Start cutting path id: path10976)
+(Change tool to Default tool)
+
+M03 S60
+G00 X246.299937 Y184.372838
+
+M03 S80
+G01 X106.639812 Y140.356405 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10976)
+
+
+(Start cutting path id: path10972)
+(Change tool to Default tool)
+
+M03 S60
+G00 X106.264562 Y136.478954
+
+M03 S80
+G01 X242.488280 Y185.768709 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10972)
+
+
+(Start cutting path id: path10968)
+(Change tool to Default tool)
+
+M03 S60
+G00 X238.655279 Y187.143907
+
+M03 S80
+G01 X106.073639 Y132.678903 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10968)
+
+
+(Start cutting path id: path10964)
+(Change tool to Default tool)
+
+M03 S60
+G00 X106.112656 Y129.126255
+
+M03 S80
+G01 X234.735424 Y188.212295 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10964)
+
+
+(Start cutting path id: path10960)
+(Change tool to Default tool)
+
+M03 S60
+G00 X230.823189 Y189.295181
+
+M03 S80
+G01 X106.358965 Y125.373264 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10960)
+
+
+(Start cutting path id: path10956)
+(Change tool to Default tool)
+
+M03 S60
+G00 X106.729840 Y121.549118
+
+M03 S80
+G01 X226.833732 Y190.268460 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10956)
+
+
+(Start cutting path id: path10952)
+(Change tool to Default tool)
+
+M03 S60
+G00 X222.811289 Y191.166738
+
+M03 S80
+G01 X107.384173 Y117.819657 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10952)
+
+
+(Start cutting path id: path10948)
+(Change tool to Default tool)
+
+M03 S60
+G00 X108.263753 Y114.130801
+
+M03 S80
+G01 X218.826065 Y191.987087 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10948)
+
+
+(Start cutting path id: path10944)
+(Change tool to Default tool)
+
+M03 S60
+G00 X214.800059 Y192.707036
+
+M03 S80
+G01 X109.240842 Y110.414570 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10944)
+
+
+(Start cutting path id: path10940)
+(Change tool to Default tool)
+
+M03 S60
+G00 X110.437288 Y106.773127
+
+M03 S80
+G01 X210.675558 Y193.369835 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10940)
+
+
+(Start cutting path id: path10936)
+(Change tool to Default tool)
+
+M03 S60
+G00 X206.604856 Y193.890429
+
+M03 S80
+G01 X111.800774 Y103.193033 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10936)
+
+
+(Start cutting path id: path10932)
+(Change tool to Default tool)
+
+M03 S60
+G00 X113.300679 Y99.763716
+
+M03 S80
+G01 X202.518878 Y194.326145 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10932)
+
+
+(Start cutting path id: path10928)
+(Change tool to Default tool)
+
+M03 S60
+G00 X198.384181 Y194.628193
+
+M03 S80
+G01 X114.979407 Y96.360539 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10928)
+
+
+(Start cutting path id: path10924)
+(Change tool to Default tool)
+
+M03 S60
+G00 X116.931115 Y92.873190
+
+M03 S80
+G01 X194.289278 Y194.855594 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10924)
+
+
+(Start cutting path id: path10920)
+(Change tool to Default tool)
+
+M03 S60
+G00 X190.185556 Y195.002843
+
+M03 S80
+G01 X118.936797 Y89.727612 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10920)
+
+
+(Start cutting path id: path10916)
+(Change tool to Default tool)
+
+M03 S60
+G00 X121.133615 Y86.528341
+
+M03 S80
+G01 X186.084232 Y195.002914 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10916)
+
+
+(Start cutting path id: path10912)
+(Change tool to Default tool)
+
+M03 S60
+G00 X181.925935 Y194.946011
+
+M03 S80
+G01 X123.370826 Y83.412149 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10912)
+
+
+(Start cutting path id: path10908)
+(Change tool to Default tool)
+
+M03 S60
+G00 X125.764493 Y80.400556
+
+M03 S80
+G01 X177.680325 Y194.835662 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10908)
+
+
+(Start cutting path id: path10904)
+(Change tool to Default tool)
+
+M03 S60
+G00 X194.289349 Y194.855911
+
+M03 S80
+G01 X248.125703 Y80.446206 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10904)
+
+
+(Start cutting path id: path10900)
+(Change tool to Default tool)
+
+M03 S60
+G00 X250.519512 Y83.458081
+
+M03 S80
+G01 X190.185697 Y195.002878 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10900)
+
+
+(Start cutting path id: path10896)
+(Change tool to Default tool)
+
+M03 S60
+G00 X252.756758 Y86.574520
+
+M03 S80
+G01 X186.084232 Y195.002878 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10896)
+
+
+(Start cutting path id: path10892)
+(Change tool to Default tool)
+
+M03 S60
+G00 X254.953329 Y89.772944
+
+M03 S80
+G01 X181.926217 Y194.945869 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10892)
+
+
+(Start cutting path id: path10888)
+(Change tool to Default tool)
+
+M03 S60
+G00 X177.680537 Y194.835591
+
+M03 S80
+G01 X256.959223 Y93.044746 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10888)
+
+
+(Start cutting path id: path10884)
+(Change tool to Default tool)
+
+M03 S60
+G00 X258.911072 Y96.406471
+
+M03 S80
+G01 X173.389278 Y194.525958 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10884)
+
+
+(Start cutting path id: path10880)
+(Change tool to Default tool)
+
+M03 S60
+G00 X169.277089 Y194.130565
+
+M03 S80
+G01 X260.589377 Y99.809788 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10880)
+
+
+(Start cutting path id: path10876)
+(Change tool to Default tool)
+
+M03 S60
+G00 X262.089493 Y103.238788
+
+M03 S80
+G01 X165.234009 Y193.671601 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10876)
+
+
+(Start cutting path id: path10872)
+(Change tool to Default tool)
+
+M03 S60
+G00 X161.112542 Y193.029510
+
+M03 S80
+G01 X263.452309 Y106.819094 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10872)
+
+
+(Start cutting path id: path10868)
+(Change tool to Default tool)
+
+M03 S60
+G00 X264.649213 Y110.460396
+
+M03 S80
+G01 X157.082338 Y192.383151 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10868)
+
+
+(Start cutting path id: path10864)
+(Change tool to Default tool)
+
+M03 S60
+G00 X153.008672 Y191.599279
+
+M03 S80
+G01 X265.626267 Y114.176909 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10864)
+
+
+(Start cutting path id: path10860)
+(Change tool to Default tool)
+
+M03 S60
+G00 X266.506130 Y117.865624
+
+M03 S80
+G01 X149.207880 Y190.789019 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10860)
+
+
+(Start cutting path id: path10856)
+(Change tool to Default tool)
+
+M03 S60
+G00 X145.474398 Y189.879663
+
+M03 S80
+G01 X267.160144 Y121.594943 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10856)
+
+
+(Start cutting path id: path10852)
+(Change tool to Default tool)
+
+M03 S60
+G00 X267.531372 Y125.419337
+
+M03 S80
+G01 X141.836660 Y188.936971 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10852)
+
+
+(Start cutting path id: path10848)
+(Change tool to Default tool)
+
+M03 S60
+G00 X267.777364 Y129.171728
+
+M03 S80
+G01 X138.118841 Y187.894759 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10848)
+
+
+(Start cutting path id: path10844)
+(Change tool to Default tool)
+
+M03 S60
+G00 X134.666275 Y186.851243
+
+M03 S80
+G01 X267.816593 Y132.724905 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10844)
+
+
+(Start cutting path id: path10840)
+(Change tool to Default tool)
+
+M03 S60
+G00 X267.625776 Y136.524957
+
+M03 S80
+G01 X131.110311 Y185.643261 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10840)
+
+
+(Start cutting path id: path10836)
+(Change tool to Default tool)
+
+M03 S60
+G00 X127.589871 Y184.327012
+
+M03 S80
+G01 X267.250350 Y140.402302 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10836)
+
+
+(Start cutting path id: path10832)
+(Change tool to Default tool)
+
+M03 S60
+G00 X194.609036 Y69.162997
+
+M03 S80
+G01 X246.299796 Y184.373155 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10832)
+
+
+(Start cutting path id: path10828)
+(Change tool to Default tool)
+
+M03 S60
+G00 X248.852073 Y181.246416
+
+M03 S80
+G01 X190.372810 Y69.005588 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10828)
+
+
+(Start cutting path id: path10824)
+(Change tool to Default tool)
+
+M03 S60
+G00 X186.139618 Y69.005553
+
+M03 S80
+G01 X251.132569 Y178.439328 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10824)
+
+
+(Start cutting path id: path10820)
+(Change tool to Default tool)
+
+M03 S60
+G00 X253.280386 Y175.367374
+
+M03 S80
+G01 X181.847477 Y69.066618 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10820)
+
+
+(Start cutting path id: path10816)
+(Change tool to Default tool)
+
+M03 S60
+G00 X177.465731 Y69.184693
+
+M03 S80
+G01 X255.360469 Y172.183449 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10816)
+
+
+(Start cutting path id: path10812)
+(Change tool to Default tool)
+
+M03 S60
+G00 X257.337330 Y168.944315
+
+M03 S80
+G01 X173.036500 Y69.516728 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10812)
+
+
+(Start cutting path id: path10808)
+(Change tool to Default tool)
+
+M03 S60
+G00 X168.792019 Y69.940202
+
+M03 S80
+G01 X259.168741 Y165.583189 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10808)
+
+
+(Start cutting path id: path10804)
+(Change tool to Default tool)
+
+M03 S60
+G00 X260.834098 Y162.188832
+
+M03 S80
+G01 X164.619258 Y70.432045 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10804)
+
+
+(Start cutting path id: path10800)
+(Change tool to Default tool)
+
+M03 S60
+G00 X160.365147 Y71.120173
+
+M03 S80
+G01 X262.285814 Y158.700072 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10800)
+
+
+(Start cutting path id: path10796)
+(Change tool to Default tool)
+
+M03 S60
+G00 X263.626722 Y155.126222
+
+M03 S80
+G01 X156.205544 Y71.812464 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10796)
+
+
+(Start cutting path id: path10792)
+(Change tool to Default tool)
+
+M03 S60
+G00 X152.000610 Y72.652534
+
+M03 S80
+G01 X264.807646 Y151.385120 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10792)
+
+
+(Start cutting path id: path10788)
+(Change tool to Default tool)
+
+M03 S60
+G00 X265.743389 Y147.806083
+
+M03 S80
+G01 X148.077192 Y73.520614 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10788)
+
+
+(Start cutting path id: path10784)
+(Change tool to Default tool)
+
+M03 S60
+G00 X144.224189 Y74.495339
+
+M03 S80
+G01 X266.634188 Y144.214100 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10784)
+
+
+(Start cutting path id: path10780)
+(Change tool to Default tool)
+
+M03 S60
+G00 X267.250244 Y140.402407
+
+M03 S80
+G01 X140.469328 Y75.505059 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10780)
+
+
+(Start cutting path id: path10776)
+(Change tool to Default tool)
+
+M03 S60
+G00 X136.632235 Y76.621989
+
+M03 S80
+G01 X267.625670 Y136.525062 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10776)
+
+
+(Start cutting path id: path10772)
+(Change tool to Default tool)
+
+M03 S60
+G00 X267.816629 Y132.724835
+
+M03 S80
+G01 X133.068580 Y77.740189 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10772)
+
+
+(Start cutting path id: path10768)
+(Change tool to Default tool)
+
+M03 S60
+G00 X129.398386 Y79.034566
+
+M03 S80
+G01 X267.777223 Y129.171692 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10768)
+
+
+(Start cutting path id: path10764)
+(Change tool to Default tool)
+
+M03 S60
+G00 X125.764493 Y80.400556
+
+M03 S80
+G01 X267.531408 Y125.419231 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10764)
+
+
+(Start cutting path id: path10760)
+(Change tool to Default tool)
+
+M03 S60
+G00 X106.358612 Y125.373511
+
+M03 S80
+G01 X248.125880 Y80.446206 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10760)
+
+
+(Start cutting path id: path10756)
+(Change tool to Default tool)
+
+M03 S60
+G00 X244.356908 Y78.899875
+
+M03 S80
+G01 X106.112832 Y129.125902 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10756)
+
+
+(Start cutting path id: path10752)
+(Change tool to Default tool)
+
+M03 S60
+G00 X106.073356 Y132.679009
+
+M03 S80
+G01 X240.401246 Y77.426605 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10752)
+
+
+(Start cutting path id: path10748)
+(Change tool to Default tool)
+
+M03 S60
+G00 X236.355344 Y76.281594
+
+M03 S80
+G01 X106.264668 Y136.478884 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10748)
+
+
+(Start cutting path id: path10744)
+(Change tool to Default tool)
+
+M03 S60
+G00 X106.639565 Y140.356582
+
+M03 S80
+G01 X232.316991 Y75.121272 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10744)
+
+
+(Start cutting path id: path10740)
+(Change tool to Default tool)
+
+M03 S60
+G00 X228.199405 Y74.078814
+
+M03 S80
+G01 X107.255903 Y144.168345 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10740)
+
+
+(Start cutting path id: path10736)
+(Change tool to Default tool)
+
+M03 S60
+G00 X108.146455 Y147.760258
+
+M03 S80
+G01 X224.047352 Y73.116366 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10736)
+
+
+(Start cutting path id: path10732)
+(Change tool to Default tool)
+
+M03 S60
+G00 X219.933928 Y72.236715
+
+M03 S80
+G01 X109.082692 Y151.339364 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10732)
+
+
+(Start cutting path id: path10728)
+(Change tool to Default tool)
+
+M03 S60
+G00 X110.263121 Y155.080396
+
+M03 S80
+G01 X215.779300 Y71.465366 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10728)
+
+
+(Start cutting path id: path10724)
+(Change tool to Default tool)
+
+M03 S60
+G00 X111.603959 Y158.654176
+
+M03 S80
+G01 X211.521554 Y70.755366 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10724)
+
+
+(Start cutting path id: path10720)
+(Change tool to Default tool)
+
+M03 S60
+G00 X207.320077 Y70.197553
+
+M03 S80
+G01 X113.055745 Y162.143077 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10720)
+
+
+(Start cutting path id: path10716)
+(Change tool to Default tool)
+
+M03 S60
+G00 X114.721597 Y165.537469
+
+M03 S80
+G01 X203.103360 Y69.730793 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10716)
+
+
+(Start cutting path id: path10712)
+(Change tool to Default tool)
+
+M03 S60
+G00 X198.835490 Y69.406908
+
+M03 S80
+G01 X116.552549 Y168.898348 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10712)
+
+
+(Start cutting path id: path10708)
+(Change tool to Default tool)
+
+M03 S60
+G00 X118.529445 Y172.137941
+
+M03 S80
+G01 X194.609142 Y69.163174 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10708)
+
+
+(Start cutting path id: path10704)
+(Change tool to Default tool)
+
+M03 S60
+G00 X120.609952 Y175.321372
+
+M03 S80
+G01 X190.372810 Y69.005447 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10704)
+
+
+(Start cutting path id: path10700)
+(Change tool to Default tool)
+
+M03 S60
+G00 X186.139618 Y69.005553
+
+M03 S80
+G01 X122.757098 Y178.393467 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10700)
+
+
+(Start cutting path id: path10696)
+(Change tool to Default tool)
+
+M03 S60
+G00 X125.037771 Y181.200590
+
+M03 S80
+G01 X181.847689 Y69.066301 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10696)
+
+
+(Start cutting path id: path10692)
+(Change tool to Default tool)
+
+M03 S60
+G00 X127.589871 Y184.327012
+
+M03 S80
+G01 X177.465590 Y69.184940 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10692)
+
+
+(Start cutting path id: path10688)
+(Change tool to Default tool)
+
+M03 S60
+G00 X182.983210 Y32.323581
+
+M03 S80
+G01 X333.398118 Y131.385337 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10688)
+
+
+(Start cutting path id: path10684)
+(Change tool to Default tool)
+
+M03 S60
+G00 X331.393812 Y128.406235
+
+M03 S80
+G01 X178.901748 Y33.620851 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10684)
+
+
+(Start cutting path id: path10680)
+(Change tool to Default tool)
+
+M03 S60
+G00 X174.848825 Y34.953222
+
+M03 S80
+G01 X329.515411 Y125.402968 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10680)
+
+
+(Start cutting path id: path10676)
+(Change tool to Default tool)
+
+M03 S60
+G00 X327.113594 Y121.929447
+
+M03 S80
+G01 X170.629850 Y36.320870 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10676)
+
+
+(Start cutting path id: path10672)
+(Change tool to Default tool)
+
+M03 S60
+G00 X166.524470 Y37.651760
+
+M03 S80
+G01 X324.701194 Y118.479140 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10672)
+
+
+(Start cutting path id: path10668)
+(Change tool to Default tool)
+
+M03 S60
+G00 X322.099635 Y115.009288
+
+M03 S80
+G01 X162.389738 Y39.115505 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10668)
+
+
+(Start cutting path id: path10664)
+(Change tool to Default tool)
+
+M03 S60
+G00 X158.439686 Y40.564222
+
+M03 S80
+G01 X319.564574 Y111.627420 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10664)
+
+
+(Start cutting path id: path10660)
+(Change tool to Default tool)
+
+M03 S60
+G00 X316.822432 Y108.316848
+
+M03 S80
+G01 X154.508683 Y41.996041 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10660)
+
+
+(Start cutting path id: path10656)
+(Change tool to Default tool)
+
+M03 S60
+G00 X150.597260 Y43.632083
+
+M03 S80
+G01 X314.037428 Y105.136768 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10656)
+
+
+(Start cutting path id: path10652)
+(Change tool to Default tool)
+
+M03 S60
+G00 X311.222086 Y101.948927
+
+M03 S80
+G01 X146.659026 Y45.222264 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10652)
+
+
+(Start cutting path id: path10648)
+(Change tool to Default tool)
+
+M03 S60
+G00 X142.685090 Y46.855661
+
+M03 S80
+G01 X308.336469 Y98.894260 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10648)
+
+
+(Start cutting path id: path10644)
+(Change tool to Default tool)
+
+M03 S60
+G00 X305.408837 Y95.883513
+
+M03 S80
+G01 X138.758039 Y48.590128 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10644)
+
+
+(Start cutting path id: path10640)
+(Change tool to Default tool)
+
+M03 S60
+G00 X134.872650 Y50.445457
+
+M03 S80
+G01 X302.417035 Y92.873331 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10640)
+
+
+(Start cutting path id: path10636)
+(Change tool to Default tool)
+
+M03 S60
+G00 X131.046176 Y52.272387
+
+M03 S80
+G01 X299.236497 Y89.968101 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10636)
+
+
+(Start cutting path id: path10632)
+(Change tool to Default tool)
+
+M03 S60
+G00 X296.104994 Y87.100582
+
+M03 S80
+G01 X127.268032 Y54.154315 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10632)
+
+
+(Start cutting path id: path10628)
+(Change tool to Default tool)
+
+M03 S60
+G00 X123.525695 Y56.077165
+
+M03 S80
+G01 X292.829383 Y84.318083 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10628)
+
+
+(Start cutting path id: path10624)
+(Change tool to Default tool)
+
+M03 S60
+G00 X289.591694 Y81.613935
+
+M03 S80
+G01 X119.818460 Y57.982059 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10624)
+
+
+(Start cutting path id: path10620)
+(Change tool to Default tool)
+
+M03 S60
+G00 X116.144773 Y60.104123
+
+M03 S80
+G01 X286.194938 Y78.929050 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10620)
+
+
+(Start cutting path id: path10616)
+(Change tool to Default tool)
+
+M03 S60
+G00 X282.855862 Y76.380830
+
+M03 S80
+G01 X112.484669 Y62.239734 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10616)
+
+
+(Start cutting path id: path10612)
+(Change tool to Default tool)
+
+M03 S60
+G00 X108.811688 Y64.420500
+
+M03 S80
+G01 X279.496853 Y73.855541 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10612)
+
+
+(Start cutting path id: path10608)
+(Change tool to Default tool)
+
+M03 S60
+G00 X276.029753 Y71.357875
+
+M03 S80
+G01 X105.233110 Y66.688508 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10608)
+
+
+(Start cutting path id: path10604)
+(Change tool to Default tool)
+
+M03 S60
+G00 X101.622818 Y68.991089
+
+M03 S80
+G01 X272.461442 Y69.020369 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10604)
+
+
+(Start cutting path id: path10600)
+(Change tool to Default tool)
+
+M03 S60
+G00 X98.054753 Y71.328594
+
+M03 S80
+G01 X268.850691 Y66.717789 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10600)
+
+
+(Start cutting path id: path10596)
+(Change tool to Default tool)
+
+M03 S60
+G00 X265.272783 Y64.449781
+
+M03 S80
+G01 X94.586913 Y73.826261 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10596)
+
+
+(Start cutting path id: path10592)
+(Change tool to Default tool)
+
+M03 S60
+G00 X91.228116 Y76.351550
+
+M03 S80
+G01 X261.599661 Y62.269015 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10592)
+
+
+(Start cutting path id: path10588)
+(Change tool to Default tool)
+
+M03 S60
+G00 X257.939557 Y60.133404
+
+M03 S80
+G01 X87.889392 Y78.899769 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10588)
+
+
+(Start cutting path id: path10584)
+(Change tool to Default tool)
+
+M03 S60
+G00 X84.492777 Y81.584655
+
+M03 S80
+G01 X254.265659 Y58.010987 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10584)
+
+
+(Start cutting path id: path10580)
+(Change tool to Default tool)
+
+M03 S60
+G00 X250.558071 Y56.106446
+
+M03 S80
+G01 X81.255089 Y84.288802 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10580)
+
+
+(Start cutting path id: path10576)
+(Change tool to Default tool)
+
+M03 S60
+G00 X77.979300 Y87.071301
+
+M03 S80
+G01 X246.815910 Y54.183595 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10576)
+
+
+(Start cutting path id: path10572)
+(Change tool to Default tool)
+
+M03 S60
+G00 X243.038119 Y52.301314
+
+M03 S80
+G01 X74.847445 Y89.938467 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10572)
+
+
+(Start cutting path id: path10568)
+(Change tool to Default tool)
+
+M03 S60
+G00 X71.666695 Y92.843910
+
+M03 S80
+G01 X239.211433 Y50.474243 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10568)
+
+
+(Start cutting path id: path10564)
+(Change tool to Default tool)
+
+M03 S60
+G00 X235.325939 Y48.619197
+
+M03 S80
+G01 X68.675493 Y95.854374 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10564)
+
+
+(Start cutting path id: path10560)
+(Change tool to Default tool)
+
+M03 S60
+G00 X65.747684 Y98.864909
+
+M03 S80
+G01 X231.399064 Y46.884871 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10560)
+
+
+(Start cutting path id: path10556)
+(Change tool to Default tool)
+
+M03 S60
+G00 X227.424952 Y45.251651
+
+M03 S80
+G01 X62.861892 Y101.919752 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10556)
+
+
+(Start cutting path id: path10552)
+(Change tool to Default tool)
+
+M03 S60
+G00 X60.047078 Y105.107417
+
+M03 S80
+G01 X223.487247 Y43.661293 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10552)
+
+
+(Start cutting path id: path10548)
+(Change tool to Default tool)
+
+M03 S60
+G00 X219.575647 Y42.025287
+
+M03 S80
+G01 X57.261545 Y108.287532 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10548)
+
+
+(Start cutting path id: path10544)
+(Change tool to Default tool)
+
+M03 S60
+G00 X54.519227 Y111.598316
+
+M03 S80
+G01 X215.644821 Y40.593679 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10544)
+
+
+(Start cutting path id: path10540)
+(Change tool to Default tool)
+
+M03 S60
+G00 X211.694662 Y39.144503
+
+M03 S80
+G01 X51.984060 Y114.980078 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10540)
+
+
+(Start cutting path id: path10536)
+(Change tool to Default tool)
+
+M03 S60
+G00 X49.382959 Y118.450247
+
+M03 S80
+G01 X207.559684 Y37.681076 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10536)
+
+
+(Start cutting path id: path10532)
+(Change tool to Default tool)
+
+M03 S60
+G00 X203.453986 Y36.350186
+
+M03 S80
+G01 X46.970595 Y121.900202 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10532)
+
+
+(Start cutting path id: path10528)
+(Change tool to Default tool)
+
+M03 S60
+G00 X44.568601 Y125.373511
+
+M03 S80
+G01 X199.235187 Y34.982326 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10528)
+
+
+(Start cutting path id: path10524)
+(Change tool to Default tool)
+
+M03 S60
+G00 X195.182300 Y33.649919
+
+M03 S80
+G01 X42.690589 Y128.377096 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10524)
+
+
+(Start cutting path id: path10520)
+(Change tool to Default tool)
+
+M03 S60
+G00 X40.807250 Y131.385549
+
+M03 S80
+G01 X191.100450 Y32.352720 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10520)
+
+
+(Start cutting path id: path10516)
+(Change tool to Default tool)
+
+M03 S60
+G00 X189.989870 Y230.825307
+
+M03 S80
+G01 X40.807567 Y131.385373 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10516)
+
+
+(Start cutting path id: path10512)
+(Change tool to Default tool)
+
+M03 S60
+G00 X43.190228 Y135.133319
+
+M03 S80
+G01 X193.316564 Y229.780767 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10512)
+
+
+(Start cutting path id: path10508)
+(Change tool to Default tool)
+
+M03 S60
+G00 X197.355482 Y228.557581
+
+M03 S80
+G01 X45.472312 Y138.722374 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10508)
+
+
+(Start cutting path id: path10504)
+(Change tool to Default tool)
+
+M03 S60
+G00 X47.874341 Y142.222282
+
+M03 S80
+G01 X201.379229 Y227.251951 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10504)
+
+
+(Start cutting path id: path10500)
+(Change tool to Default tool)
+
+M03 S60
+G00 X205.507258 Y225.905539
+
+M03 S80
+G01 X50.421925 Y145.751259 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10500)
+
+
+(Start cutting path id: path10496)
+(Change tool to Default tool)
+
+M03 S60
+G00 X52.971697 Y149.152424
+
+M03 S80
+G01 X209.529171 Y224.607352 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10496)
+
+
+(Start cutting path id: path10492)
+(Change tool to Default tool)
+
+M03 S60
+G00 X213.447509 Y223.116372
+
+M03 S80
+G01 X55.714226 Y152.568583 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10492)
+
+
+(Start cutting path id: path10488)
+(Change tool to Default tool)
+
+M03 S60
+G00 X58.422184 Y155.907589
+
+M03 S80
+G01 X217.367258 Y221.624440 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10488)
+
+
+(Start cutting path id: path10484)
+(Change tool to Default tool)
+
+M03 S60
+G00 X221.349872 Y220.119137
+
+M03 S80
+G01 X61.238867 Y159.068478 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10484)
+
+
+(Start cutting path id: path10480)
+(Change tool to Default tool)
+
+M03 S60
+G00 X64.064899 Y162.294948
+
+M03 S80
+G01 X225.269515 Y218.508319 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10480)
+
+
+(Start cutting path id: path10476)
+(Change tool to Default tool)
+
+M03 S60
+G00 X229.225353 Y216.888857
+
+M03 S80
+G01 X67.026257 Y165.303931 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10476)
+
+
+(Start cutting path id: path10472)
+(Change tool to Default tool)
+
+M03 S60
+G00 X70.061980 Y168.323708
+
+M03 S80
+G01 X233.229098 Y215.114032 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10472)
+
+
+(Start cutting path id: path10468)
+(Change tool to Default tool)
+
+M03 S60
+G00 X237.086370 Y213.413785
+
+M03 S80
+G01 X73.057063 Y171.267427 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10468)
+
+
+(Start cutting path id: path10464)
+(Change tool to Default tool)
+
+M03 S60
+G00 X76.278629 Y174.183805
+
+M03 S80
+G01 X240.884376 Y211.600472 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10464)
+
+
+(Start cutting path id: path10460)
+(Change tool to Default tool)
+
+M03 S60
+G00 X244.685556 Y209.784548
+
+M03 S80
+G01 X79.512543 Y177.011495 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10460)
+
+
+(Start cutting path id: path10456)
+(Change tool to Default tool)
+
+M03 S60
+G00 X82.752666 Y179.855307
+
+M03 S80
+G01 X248.481303 Y207.834463 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10456)
+
+
+(Start cutting path id: path10452)
+(Change tool to Default tool)
+
+M03 S60
+G00 X252.299911 Y205.855768
+
+M03 S80
+G01 X86.191331 Y182.573142 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10452)
+
+
+(Start cutting path id: path10448)
+(Change tool to Default tool)
+
+M03 S60
+G00 X89.568967 Y185.242894
+
+M03 S80
+G01 X256.101232 Y203.755612 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10448)
+
+
+(Start cutting path id: path10444)
+(Change tool to Default tool)
+
+M03 S60
+G00 X259.824025 Y201.658595
+
+M03 S80
+G01 X93.005657 Y187.771852 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10444)
+
+
+(Start cutting path id: path10440)
+(Change tool to Default tool)
+
+M03 S60
+G00 X263.481307 Y199.580522
+
+M03 S80
+G01 X96.388125 Y190.260134 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10440)
+
+
+(Start cutting path id: path10436)
+(Change tool to Default tool)
+
+M03 S60
+G00 X267.170340 Y197.297310
+
+M03 S80
+G01 X99.827744 Y192.679449 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10436)
+
+
+(Start cutting path id: path10432)
+(Change tool to Default tool)
+
+M03 S60
+G00 X270.719460 Y195.031101
+
+M03 S80
+G01 X103.364517 Y195.001820 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10432)
+
+
+(Start cutting path id: path10428)
+(Change tool to Default tool)
+
+M03 S60
+G00 X106.913814 Y197.267994
+
+M03 S80
+G01 X274.256057 Y192.708694 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10428)
+
+
+(Start cutting path id: path10424)
+(Change tool to Default tool)
+
+M03 S60
+G00 X277.695781 Y190.289450
+
+M03 S80
+G01 X110.602599 Y199.551277 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10424)
+
+
+(Start cutting path id: path10420)
+(Change tool to Default tool)
+
+M03 S60
+G00 X114.259952 Y201.629314
+
+M03 S80
+G01 X281.078320 Y187.800779 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10420)
+
+
+(Start cutting path id: path10416)
+(Change tool to Default tool)
+
+M03 S60
+G00 X284.515011 Y185.272174
+
+M03 S80
+G01 X117.982745 Y203.726331 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10416)
+
+
+(Start cutting path id: path10412)
+(Change tool to Default tool)
+
+M03 S60
+G00 X287.893281 Y182.602423
+
+M03 S80
+G01 X121.784349 Y205.826488 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10412)
+
+
+(Start cutting path id: path10408)
+(Change tool to Default tool)
+
+M03 S60
+G00 X125.602568 Y207.805183
+
+M03 S80
+G01 X291.331559 Y179.884588 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10408)
+
+
+(Start cutting path id: path10404)
+(Change tool to Default tool)
+
+M03 S60
+G00 X294.571928 Y177.040811
+
+M03 S80
+G01 X129.398563 Y209.755303 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10404)
+
+
+(Start cutting path id: path10400)
+(Change tool to Default tool)
+
+M03 S60
+G00 X297.805489 Y174.213086
+
+M03 S80
+G01 X133.199743 Y211.571191 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10400)
+
+
+(Start cutting path id: path10396)
+(Change tool to Default tool)
+
+M03 S60
+G00 X136.997748 Y213.384504
+
+M03 S80
+G01 X301.027408 Y171.296707 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10396)
+
+
+(Start cutting path id: path10392)
+(Change tool to Default tool)
+
+M03 S60
+G00 X304.022527 Y168.352989
+
+M03 S80
+G01 X140.855055 Y215.084752 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10392)
+
+
+(Start cutting path id: path10388)
+(Change tool to Default tool)
+
+M03 S60
+G00 X144.858589 Y216.859577
+
+M03 S80
+G01 X307.058391 Y165.333211 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10388)
+
+
+(Start cutting path id: path10384)
+(Change tool to Default tool)
+
+M03 S60
+G00 X310.019043 Y162.324229
+
+M03 S80
+G01 X148.814427 Y218.479038 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10384)
+
+
+(Start cutting path id: path10380)
+(Change tool to Default tool)
+
+M03 S60
+G00 X152.734070 Y220.089857
+
+M03 S80
+G01 X312.845428 Y159.097406 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10380)
+
+
+(Start cutting path id: path10376)
+(Change tool to Default tool)
+
+M03 S60
+G00 X315.662111 Y155.936870
+
+M03 S80
+G01 X156.717037 Y221.595512 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10376)
+
+
+(Start cutting path id: path10372)
+(Change tool to Default tool)
+
+M03 S60
+G00 X318.369963 Y152.598040
+
+M03 S80
+G01 X160.637033 Y223.087268 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10372)
+
+
+(Start cutting path id: path10368)
+(Change tool to Default tool)
+
+M03 S60
+G00 X164.554912 Y224.578142
+
+M03 S80
+G01 X321.112386 Y149.181776 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10368)
+
+
+(Start cutting path id: path10364)
+(Change tool to Default tool)
+
+M03 S60
+G00 X323.662299 Y145.780363
+
+M03 S80
+G01 X168.576966 Y225.876435 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10364)
+
+
+(Start cutting path id: path10360)
+(Change tool to Default tool)
+
+M03 S60
+G00 X172.704960 Y227.222776
+
+M03 S80
+G01 X326.209496 Y142.251668 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10360)
+
+
+(Start cutting path id: path10356)
+(Change tool to Default tool)
+
+M03 S60
+G00 X328.611524 Y138.751866
+
+M03 S80
+G01 X176.728355 Y228.528512 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10356)
+
+
+(Start cutting path id: path10352)
+(Change tool to Default tool)
+
+M03 S60
+G00 X180.767872 Y229.751628
+
+M03 S80
+G01 X330.894208 Y135.162388 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10352)
+
+
+(Start cutting path id: path10348)
+(Change tool to Default tool)
+
+M03 S60
+G00 X333.398154 Y131.385549
+
+M03 S80
+G01 X184.094495 Y230.796203 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10348)
+
+
+(Start cutting path id: path10344)
+(Change tool to Default tool)
+
+M03 S60
+G00 X331.393812 Y128.406235
+
+M03 S80
+G01 X187.049856 Y231.651936 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10344)
+
+
+(Start cutting path id: path10340)
+(Change tool to Default tool)
+
+M03 S60
+G00 X189.989870 Y230.825307
+
+M03 S80
+G01 X329.515588 Y125.402968 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10340)
+
+
+(Start cutting path id: path10336)
+(Change tool to Default tool)
+
+M03 S60
+G00 X327.113594 Y121.929447
+
+M03 S80
+G01 X193.316282 Y229.781014 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10336)
+
+
+(Start cutting path id: path10332)
+(Change tool to Default tool)
+
+M03 S60
+G00 X197.355482 Y228.557581
+
+M03 S80
+G01 X324.701194 Y118.479281 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10332)
+
+
+(Start cutting path id: path10328)
+(Change tool to Default tool)
+
+M03 S60
+G00 X322.099635 Y115.009288
+
+M03 S80
+G01 X201.379441 Y227.251880 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10328)
+
+
+(Start cutting path id: path10324)
+(Change tool to Default tool)
+
+M03 S60
+G00 X205.507258 Y225.905539
+
+M03 S80
+G01 X319.564539 Y111.627773 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10324)
+
+
+(Start cutting path id: path10320)
+(Change tool to Default tool)
+
+M03 S60
+G00 X316.822432 Y108.316848
+
+M03 S80
+G01 X209.528960 Y224.607564 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10320)
+
+
+(Start cutting path id: path10316)
+(Change tool to Default tool)
+
+M03 S60
+G00 X213.447509 Y223.116372
+
+M03 S80
+G01 X314.037499 Y105.136556 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10316)
+
+
+(Start cutting path id: path10312)
+(Change tool to Default tool)
+
+M03 S60
+G00 X311.222086 Y101.948927
+
+M03 S80
+G01 X217.366623 Y221.624546 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10312)
+
+
+(Start cutting path id: path10308)
+(Change tool to Default tool)
+
+M03 S60
+G00 X221.349872 Y220.119137
+
+M03 S80
+G01 X308.336399 Y98.894118 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10308)
+
+
+(Start cutting path id: path10304)
+(Change tool to Default tool)
+
+M03 S60
+G00 X225.269691 Y218.508213
+
+M03 S80
+G01 X305.408802 Y95.883372 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10304)
+
+
+(Start cutting path id: path10300)
+(Change tool to Default tool)
+
+M03 S60
+G00 X302.417106 Y92.873190
+
+M03 S80
+G01 X229.225247 Y216.889034 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10300)
+
+
+(Start cutting path id: path10296)
+(Change tool to Default tool)
+
+M03 S60
+G00 X233.229239 Y215.113962
+
+M03 S80
+G01 X299.236426 Y89.967818 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10296)
+
+
+(Start cutting path id: path10292)
+(Change tool to Default tool)
+
+M03 S60
+G00 X296.104994 Y87.100582
+
+M03 S80
+G01 X237.086335 Y213.413714 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10292)
+
+
+(Start cutting path id: path10288)
+(Change tool to Default tool)
+
+M03 S60
+G00 X240.884270 Y211.600472
+
+M03 S80
+G01 X292.828677 Y84.318259 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10288)
+
+
+(Start cutting path id: path10284)
+(Change tool to Default tool)
+
+M03 S60
+G00 X289.591694 Y81.613935
+
+M03 S80
+G01 X244.686261 Y209.784442 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10284)
+
+
+(Start cutting path id: path10280)
+(Change tool to Default tool)
+
+M03 S60
+G00 X248.481374 Y207.834287
+
+M03 S80
+G01 X286.194727 Y78.929297 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10280)
+
+
+(Start cutting path id: path10276)
+(Change tool to Default tool)
+
+M03 S60
+G00 X282.855862 Y76.380830
+
+M03 S80
+G01 X252.300017 Y205.855909 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10276)
+
+
+(Start cutting path id: path10272)
+(Change tool to Default tool)
+
+M03 S60
+G00 X256.101232 Y203.755647
+
+M03 S80
+G01 X279.496747 Y73.855471 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10272)
+
+
+(Start cutting path id: path10268)
+(Change tool to Default tool)
+
+M03 S60
+G00 X276.029753 Y71.357875
+
+M03 S80
+G01 X259.823849 Y201.658454 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10268)
+
+
+(Start cutting path id: path10264)
+(Change tool to Default tool)
+
+M03 S60
+G00 X263.481307 Y199.580522
+
+M03 S80
+G01 X272.461265 Y69.019946 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10264)
+
+
+(Start cutting path id: path10260)
+(Change tool to Default tool)
+
+M03 S60
+G00 X268.850832 Y66.717683
+
+M03 S80
+G01 X267.170199 Y197.297310 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10260)
+
+
+(Start cutting path id: path10256)
+(Change tool to Default tool)
+
+M03 S60
+G00 X270.719460 Y195.031101
+
+M03 S80
+G01 X265.272925 Y64.449710 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10256)
+
+
+(Start cutting path id: path10252)
+(Change tool to Default tool)
+
+M03 S60
+G00 X274.256198 Y192.708765
+
+M03 S80
+G01 X261.599591 Y62.269191 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10252)
+
+
+(Start cutting path id: path10248)
+(Change tool to Default tool)
+
+M03 S60
+G00 X257.939557 Y60.133404
+
+M03 S80
+G01 X277.695817 Y190.289344 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10248)
+
+
+(Start cutting path id: path10244)
+(Change tool to Default tool)
+
+M03 S60
+G00 X281.078179 Y187.801062
+
+M03 S80
+G01 X254.265659 Y58.010952 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10244)
+
+
+(Start cutting path id: path10240)
+(Change tool to Default tool)
+
+M03 S60
+G00 X250.558071 Y56.106446
+
+M03 S80
+G01 X284.515046 Y185.272139 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10240)
+
+
+(Start cutting path id: path10236)
+(Change tool to Default tool)
+
+M03 S60
+G00 X287.893281 Y182.602423
+
+M03 S80
+G01 X246.816192 Y54.183560 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10236)
+
+
+(Start cutting path id: path10232)
+(Change tool to Default tool)
+
+M03 S60
+G00 X243.038119 Y52.301314
+
+M03 S80
+G01 X291.331629 Y179.884447 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10232)
+
+
+(Start cutting path id: path10228)
+(Change tool to Default tool)
+
+M03 S60
+G00 X294.571928 Y177.040811
+
+M03 S80
+G01 X239.211221 Y50.474737 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10228)
+
+
+(Start cutting path id: path10224)
+(Change tool to Default tool)
+
+M03 S60
+G00 X235.325939 Y48.619197
+
+M03 S80
+G01 X297.805348 Y174.213368 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10224)
+
+
+(Start cutting path id: path10220)
+(Change tool to Default tool)
+
+M03 S60
+G00 X301.027338 Y171.296813
+
+M03 S80
+G01 X231.399240 Y46.884447 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10220)
+
+
+(Start cutting path id: path10216)
+(Change tool to Default tool)
+
+M03 S60
+G00 X227.424952 Y45.251651
+
+M03 S80
+G01 X304.022527 Y168.353094 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10216)
+
+
+(Start cutting path id: path10212)
+(Change tool to Default tool)
+
+M03 S60
+G00 X307.058320 Y165.332999
+
+M03 S80
+G01 X223.486682 Y43.661364 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10212)
+
+
+(Start cutting path id: path10208)
+(Change tool to Default tool)
+
+M03 S60
+G00 X219.575647 Y42.025287
+
+M03 S80
+G01 X310.019043 Y162.324264 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10208)
+
+
+(Start cutting path id: path10204)
+(Change tool to Default tool)
+
+M03 S60
+G00 X312.845392 Y159.097547
+
+M03 S80
+G01 X215.644891 Y40.593503 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10204)
+
+
+(Start cutting path id: path10200)
+(Change tool to Default tool)
+
+M03 S60
+G00 X211.694662 Y39.144503
+
+M03 S80
+G01 X315.662146 Y155.936870 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10200)
+
+
+(Start cutting path id: path10196)
+(Change tool to Default tool)
+
+M03 S60
+G00 X207.559860 Y37.680687
+
+M03 S80
+G01 X318.369821 Y152.598040 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10196)
+
+
+(Start cutting path id: path10192)
+(Change tool to Default tool)
+
+M03 S60
+G00 X203.453986 Y36.350186
+
+M03 S80
+G01 X321.112422 Y149.181917 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10192)
+
+
+(Start cutting path id: path10188)
+(Change tool to Default tool)
+
+M03 S60
+G00 X199.235117 Y34.982502
+
+M03 S80
+G01 X323.662299 Y145.780116 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10188)
+
+
+(Start cutting path id: path10184)
+(Change tool to Default tool)
+
+M03 S60
+G00 X195.182300 Y33.649919
+
+M03 S80
+G01 X326.209601 Y142.251492 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10184)
+
+
+(Start cutting path id: path10180)
+(Change tool to Default tool)
+
+M03 S60
+G00 X191.100556 Y32.352861
+
+M03 S80
+G01 X328.612265 Y138.751690 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10180)
+
+
+(Start cutting path id: path10176)
+(Change tool to Default tool)
+
+M03 S60
+G00 X187.315779 Y31.119162
+
+M03 S80
+G01 X330.893502 Y135.162846 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10176)
+
+
+(Start cutting path id: path10172)
+(Change tool to Default tool)
+
+M03 S60
+G00 X42.690519 Y128.376955
+
+M03 S80
+G01 X187.034827 Y231.622655 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10172)
+
+
+(Start cutting path id: path10168)
+(Change tool to Default tool)
+
+M03 S60
+G00 X184.094460 Y230.796026
+
+M03 S80
+G01 X44.568743 Y125.373687 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10168)
+
+
+(Start cutting path id: path10164)
+(Change tool to Default tool)
+
+M03 S60
+G00 X46.970524 Y121.900167
+
+M03 S80
+G01 X180.768189 Y229.751734 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10164)
+
+
+(Start cutting path id: path10160)
+(Change tool to Default tool)
+
+M03 S60
+G00 X176.728672 Y228.528301
+
+M03 S80
+G01 X49.382959 Y118.450000 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10160)
+
+
+(Start cutting path id: path10156)
+(Change tool to Default tool)
+
+M03 S60
+G00 X51.984343 Y114.980008
+
+M03 S80
+G01 X172.704889 Y227.222952 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10156)
+
+
+(Start cutting path id: path10152)
+(Change tool to Default tool)
+
+M03 S60
+G00 X168.576860 Y225.876259
+
+M03 S80
+G01 X54.519227 Y111.598492 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10152)
+
+
+(Start cutting path id: path10148)
+(Change tool to Default tool)
+
+M03 S60
+G00 X57.261721 Y108.287567
+
+M03 S80
+G01 X164.554841 Y224.578283 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10148)
+
+
+(Start cutting path id: path10144)
+(Change tool to Default tool)
+
+M03 S60
+G00 X160.636962 Y223.087092
+
+M03 S80
+G01 X60.046972 Y105.107276 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10144)
+
+
+(Start cutting path id: path10140)
+(Change tool to Default tool)
+
+M03 S60
+G00 X62.862068 Y101.919646
+
+M03 S80
+G01 X156.717178 Y221.595265 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10140)
+
+
+(Start cutting path id: path10136)
+(Change tool to Default tool)
+
+M03 S60
+G00 X152.734070 Y220.089857
+
+M03 S80
+G01 X65.747543 Y98.864838 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10136)
+
+
+(Start cutting path id: path10132)
+(Change tool to Default tool)
+
+M03 S60
+G00 X148.814780 Y218.478932
+
+M03 S80
+G01 X68.675669 Y95.854092 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10132)
+
+
+(Start cutting path id: path10128)
+(Change tool to Default tool)
+
+M03 S60
+G00 X71.666695 Y92.843910
+
+M03 S80
+G01 X144.858554 Y216.859753 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10128)
+
+
+(Start cutting path id: path10124)
+(Change tool to Default tool)
+
+M03 S60
+G00 X140.855055 Y215.084681
+
+M03 S80
+G01 X74.847516 Y89.938538 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10124)
+
+
+(Start cutting path id: path10120)
+(Change tool to Default tool)
+
+M03 S60
+G00 X77.979300 Y87.071301
+
+M03 S80
+G01 X136.997607 Y213.384434 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10120)
+
+
+(Start cutting path id: path10116)
+(Change tool to Default tool)
+
+M03 S60
+G00 X133.199531 Y211.571191
+
+M03 S80
+G01 X81.255124 Y84.288978 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10116)
+
+
+(Start cutting path id: path10112)
+(Change tool to Default tool)
+
+M03 S60
+G00 X84.492777 Y81.584655
+
+M03 S80
+G01 X129.398210 Y209.755162 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10112)
+
+
+(Start cutting path id: path10108)
+(Change tool to Default tool)
+
+M03 S60
+G00 X125.602568 Y207.805183
+
+M03 S80
+G01 X87.889215 Y78.899840 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10108)
+
+
+(Start cutting path id: path10104)
+(Change tool to Default tool)
+
+M03 S60
+G00 X91.228116 Y76.351550
+
+M03 S80
+G01 X121.784314 Y205.826629 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10104)
+
+
+(Start cutting path id: path10100)
+(Change tool to Default tool)
+
+M03 S60
+G00 X117.982886 Y203.726543
+
+M03 S80
+G01 X94.587019 Y73.826366 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10100)
+
+
+(Start cutting path id: path10096)
+(Change tool to Default tool)
+
+M03 S60
+G00 X98.054753 Y71.328594
+
+M03 S80
+G01 X114.259952 Y201.629173 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10096)
+
+
+(Start cutting path id: path10092)
+(Change tool to Default tool)
+
+M03 S60
+G00 X110.602458 Y199.551418
+
+M03 S80
+G01 X101.622853 Y68.991195 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10092)
+
+
+(Start cutting path id: path10088)
+(Change tool to Default tool)
+
+M03 S60
+G00 X105.233110 Y66.688403
+
+M03 S80
+G01 X106.913744 Y197.268029 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10088)
+
+
+(Start cutting path id: path10084)
+(Change tool to Default tool)
+
+M03 S60
+G00 X103.364835 Y195.001996
+
+M03 S80
+G01 X108.811723 Y64.420606 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10084)
+
+
+(Start cutting path id: path10080)
+(Change tool to Default tool)
+
+M03 S60
+G00 X99.827920 Y192.679484
+
+M03 S80
+G01 X112.484528 Y62.239910 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10080)
+
+
+(Start cutting path id: path10076)
+(Change tool to Default tool)
+
+M03 S60
+G00 X116.144773 Y60.104123
+
+M03 S80
+G01 X96.388161 Y190.260064 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10076)
+
+
+(Start cutting path id: path10072)
+(Change tool to Default tool)
+
+M03 S60
+G00 X93.005939 Y187.771781
+
+M03 S80
+G01 X119.818460 Y57.981671 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10072)
+
+
+(Start cutting path id: path10068)
+(Change tool to Default tool)
+
+M03 S60
+G00 X123.525695 Y56.077165
+
+M03 S80
+G01 X89.569073 Y185.242858 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10068)
+
+
+(Start cutting path id: path10064)
+(Change tool to Default tool)
+
+M03 S60
+G00 X86.191226 Y182.573142
+
+M03 S80
+G01 X127.268314 Y54.154280 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10064)
+
+
+(Start cutting path id: path10060)
+(Change tool to Default tool)
+
+M03 S60
+G00 X131.046176 Y52.272387
+
+M03 S80
+G01 X82.752666 Y179.855166 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10060)
+
+
+(Start cutting path id: path10056)
+(Change tool to Default tool)
+
+M03 S60
+G00 X79.512543 Y177.011530
+
+M03 S80
+G01 X134.872545 Y50.445457 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10056)
+
+
+(Start cutting path id: path10052)
+(Change tool to Default tool)
+
+M03 S60
+G00 X138.758356 Y48.590269
+
+M03 S80
+G01 X76.278594 Y174.184087 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10052)
+
+
+(Start cutting path id: path10048)
+(Change tool to Default tool)
+
+M03 S60
+G00 X73.057134 Y171.267533
+
+M03 S80
+G01 X142.684878 Y46.855167 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10048)
+
+
+(Start cutting path id: path10044)
+(Change tool to Default tool)
+
+M03 S60
+G00 X146.658990 Y45.222335
+
+M03 S80
+G01 X70.061768 Y168.323779 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10044)
+
+
+(Start cutting path id: path10040)
+(Change tool to Default tool)
+
+M03 S60
+G00 X67.025975 Y165.303719
+
+M03 S80
+G01 X150.597260 Y43.632083 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10040)
+
+
+(Start cutting path id: path10036)
+(Change tool to Default tool)
+
+M03 S60
+G00 X154.508648 Y41.996006
+
+M03 S80
+G01 X64.064899 Y162.294983 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10036)
+
+
+(Start cutting path id: path10032)
+(Change tool to Default tool)
+
+M03 S60
+G00 X61.238726 Y159.068266
+
+M03 S80
+G01 X158.439580 Y40.564222 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10032)
+
+
+(Start cutting path id: path10028)
+(Change tool to Default tool)
+
+M03 S60
+G00 X162.389668 Y39.115576
+
+M03 S80
+G01 X58.422184 Y155.907589 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10028)
+
+
+(Start cutting path id: path10024)
+(Change tool to Default tool)
+
+M03 S60
+G00 X166.524470 Y37.651760
+
+M03 S80
+G01 X55.714156 Y152.568760 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10024)
+
+
+(Start cutting path id: path10020)
+(Change tool to Default tool)
+
+M03 S60
+G00 X170.629992 Y36.320906
+
+M03 S80
+G01 X52.971909 Y149.152636 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10020)
+
+
+(Start cutting path id: path10016)
+(Change tool to Default tool)
+
+M03 S60
+G00 X174.848825 Y34.953222
+
+M03 S80
+G01 X50.421996 Y145.750836 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10016)
+
+
+(Start cutting path id: path10012)
+(Change tool to Default tool)
+
+M03 S60
+G00 X178.901642 Y33.620992
+
+M03 S80
+G01 X47.874341 Y142.222564 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10012)
+
+
+(Start cutting path id: path10008)
+(Change tool to Default tool)
+
+M03 S60
+G00 X182.983210 Y32.323581
+
+M03 S80
+G01 X45.472206 Y138.722409 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10008)
+
+
+(Start cutting path id: path10004)
+(Change tool to Default tool)
+
+M03 S60
+G00 X186.768198 Y31.089882
+
+M03 S80
+G01 X43.190475 Y135.133566 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10004)
+
+
+(Start cutting path id: path10000)
+(Change tool to Default tool)
+
+M03 S60
+G00 X166.524470 Y37.651760
+
+M03 S80
+G01 X162.389562 Y39.115082 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path10000)
+
+
+(Start cutting path id: path9996)
+(Change tool to Default tool)
+
+M03 S60
+G00 X363.643343 Y21.183177
+
+M03 S80
+G02 X363.574302 Y20.051300 Z-0.100000 I-9.606408 J0.017914 F400.000000
+G02 X363.376643 Y18.935630 Z-0.100000 I-10.163292 J1.225251
+M03 S60
+
+(End cutting path id: path9996)
+
+
+(Start cutting path id: path9992)
+(Change tool to Default tool)
+
+M03 S60
+G00 X16.808732 Y251.057817
+
+M03 S80
+G02 X16.162514 Y224.166363 Z-0.100000 I-2305.309201 J41.944458 F400.000000
+G03 X15.710535 Y197.268029 Z-0.100000 I1029.706856 J-30.755391
+M03 S60
+
+(End cutting path id: path9992)
+
+
+(Start cutting path id: path9988)
+(Change tool to Default tool)
+
+M03 S60
+G00 X361.270348 Y248.063369
+
+M03 S80
+G03 X324.648687 Y248.546470 Z-0.100000 I-38.138118 J-1502.771851 F400.000000
+G02 X287.955370 Y249.259285 Z-0.100000 I1.005281 J996.529174
+M03 S60
+
+(End cutting path id: path9988)
+
+
+(Start cutting path id: path9984)
+(Change tool to Default tool)
+
+M03 S60
+G00 X357.326398 Y11.214101
+
+M03 S80
+G02 X357.950821 Y38.454007 Z-0.100000 I2035.601559 J-33.035143 F400.000000
+G03 X358.435884 Y65.547519 Z-0.100000 I-1156.611005 J34.258264
+M03 S60
+
+(End cutting path id: path9984)
+
+
+(Start cutting path id: path9980)
+(Change tool to Default tool)
+
+M03 S60
+G00 X13.007904 Y14.747029
+
+M03 S80
+G03 X48.909096 Y14.095487 Z-0.100000 I52.523857 J1904.726873 F400.000000
+G02 X84.988324 Y13.491846 Z-0.100000 I-19.660872 J-2253.633906
+M03 S60
+
+(End cutting path id: path9980)
+
+
+(Start cutting path id: path9976)
+(Change tool to Default tool)
+
+M03 S60
+G00 X23.140105 Y252.344221
+
+M03 S80
+G01 X19.428883 Y181.575593 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9976)
+
+
+(Start cutting path id: path9972)
+(Change tool to Default tool)
+
+M03 S60
+G00 X363.352583 Y243.712384
+
+M03 S80
+G03 X311.719771 Y244.979679 Z-0.100000 I-113.181066 J-3558.318723 F400.000000
+G02 X260.315374 Y246.237567 Z-0.100000 I61.906651 J3580.306180
+M03 S60
+
+(End cutting path id: path9972)
+
+
+(Start cutting path id: path9968)
+(Change tool to Default tool)
+
+M03 S60
+G00 X351.006032 Y10.470975
+
+M03 S80
+G01 X354.701379 Y81.234664 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9968)
+
+
+(Start cutting path id: path9964)
+(Change tool to Default tool)
+
+M03 S60
+G00 X10.852820 Y19.101294
+
+M03 S80
+G03 X62.346138 Y17.803076 Z-0.100000 I107.601406 J3246.087352 F400.000000
+G02 X113.830763 Y16.578228 Z-0.100000 I-68.332612 J-3954.908209
+M03 S60
+
+(End cutting path id: path9964)
+
+
+(Start cutting path id: path9960)
+(Change tool to Default tool)
+
+M03 S60
+G00 X29.445160 Y252.344221
+
+M03 S80
+G01 X22.759669 Y170.615141 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9960)
+
+
+(Start cutting path id: path9956)
+(Change tool to Default tool)
+
+M03 S60
+G00 X363.616461 Y239.386694
+
+M03 S80
+G01 X241.876387 Y244.107213 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9956)
+
+
+(Start cutting path id: path9952)
+(Change tool to Default tool)
+
+M03 S60
+G00 X344.700835 Y10.470975
+
+M03 S80
+G01 X351.386326 Y93.093641 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9952)
+
+
+(Start cutting path id: path9948)
+(Change tool to Default tool)
+
+M03 S60
+G00 X10.529852 Y23.428325
+
+M03 S80
+G01 X129.837877 Y18.848917 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9948)
+
+
+(Start cutting path id: path9944)
+(Change tool to Default tool)
+
+M03 S60
+G00 X35.750357 Y252.344221
+
+M03 S80
+G01 X25.655622 Y162.445866 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9944)
+
+
+(Start cutting path id: path9940)
+(Change tool to Default tool)
+
+M03 S60
+G00 X363.616461 Y235.067601
+
+M03 S80
+G01 X230.420987 Y242.086114 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9940)
+
+
+(Start cutting path id: path9936)
+(Change tool to Default tool)
+
+M03 S60
+G00 X338.395603 Y10.470975
+
+M03 S80
+G01 X348.483636 Y100.309710 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9936)
+
+
+(Start cutting path id: path9932)
+(Change tool to Default tool)
+
+M03 S60
+G00 X10.529852 Y27.747807
+
+M03 S80
+G01 X141.676393 Y20.836890 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9932)
+
+
+(Start cutting path id: path9928)
+(Change tool to Default tool)
+
+M03 S60
+G00 X42.055413 Y252.344221
+
+M03 S80
+G01 X28.267447 Y156.004145 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9928)
+
+
+(Start cutting path id: path9924)
+(Change tool to Default tool)
+
+M03 S60
+G00 X363.616461 Y230.748472
+
+M03 S80
+G01 X221.751474 Y240.106607 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9924)
+
+
+(Start cutting path id: path9920)
+(Change tool to Default tool)
+
+M03 S60
+G00 X332.091077 Y10.470975
+
+M03 S80
+G01 X345.943248 Y107.259431 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9920)
+
+
+(Start cutting path id: path9916)
+(Change tool to Default tool)
+
+M03 S60
+G00 X10.529852 Y32.066900
+
+M03 S80
+G01 X151.821575 Y22.577884 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9916)
+
+
+(Start cutting path id: path9912)
+(Change tool to Default tool)
+
+M03 S60
+G00 X48.360610 Y252.344221
+
+M03 S80
+G01 X30.495944 Y150.843712 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9912)
+
+
+(Start cutting path id: path9908)
+(Change tool to Default tool)
+
+M03 S60
+G00 X363.616461 Y226.429202
+
+M03 S80
+G01 X215.173580 Y238.576751 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9908)
+
+
+(Start cutting path id: path9904)
+(Change tool to Default tool)
+
+M03 S60
+G00 X325.785880 Y10.470975
+
+M03 S80
+G01 X343.675593 Y112.595901 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9904)
+
+
+(Start cutting path id: path9900)
+(Change tool to Default tool)
+
+M03 S60
+G00 X10.529852 Y36.386028
+
+M03 S80
+G01 X159.611613 Y24.130882 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9900)
+
+
+(Start cutting path id: path9896)
+(Change tool to Default tool)
+
+M03 S60
+G00 X54.665665 Y252.344221
+
+M03 S80
+G01 X32.497817 Y146.456215 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9896)
+
+
+(Start cutting path id: path9892)
+(Change tool to Default tool)
+
+M03 S60
+G00 X363.616461 Y222.110074
+
+M03 S80
+G01 X209.141081 Y237.227306 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9892)
+
+
+(Start cutting path id: path9888)
+(Change tool to Default tool)
+
+M03 S60
+G00 X319.480648 Y10.470975
+
+M03 S80
+G01 X341.651319 Y116.389672 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9888)
+
+
+(Start cutting path id: path9884)
+(Change tool to Default tool)
+
+M03 S60
+G00 X10.529852 Y40.705157
+
+M03 S80
+G01 X165.005233 Y25.587925 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9884)
+
+
+(Start cutting path id: path9880)
+(Change tool to Default tool)
+
+M03 S60
+G00 X60.970686 Y252.344221
+
+M03 S80
+G01 X34.354310 Y142.947487 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9880)
+
+
+(Start cutting path id: path9876)
+(Change tool to Default tool)
+
+M03 S60
+G00 X363.616461 Y217.790945
+
+M03 S80
+G01 X203.886809 Y236.027438 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9876)
+
+
+(Start cutting path id: path9872)
+(Change tool to Default tool)
+
+M03 S60
+G00 X313.175451 Y10.470975
+
+M03 S80
+G01 X339.878963 Y120.228600 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9872)
+
+
+(Start cutting path id: path9868)
+(Change tool to Default tool)
+
+M03 S60
+G00 X10.529852 Y45.024250
+
+M03 S80
+G01 X170.259504 Y26.787757 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9868)
+
+
+(Start cutting path id: path9864)
+(Change tool to Default tool)
+
+M03 S60
+G00 X67.275918 Y252.344221
+
+M03 S80
+G01 X35.919620 Y140.016962 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9864)
+
+
+(Start cutting path id: path9860)
+(Change tool to Default tool)
+
+M03 S60
+G00 X363.616461 Y213.471676
+
+M03 S80
+G01 X198.670990 Y235.097305 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9860)
+
+
+(Start cutting path id: path9856)
+(Change tool to Default tool)
+
+M03 S60
+G00 X306.870219 Y10.470975
+
+M03 S80
+G01 X338.226870 Y122.798233 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9856)
+
+
+(Start cutting path id: path9852)
+(Change tool to Default tool)
+
+M03 S60
+G00 X10.529852 Y49.343379
+
+M03 S80
+G01 X174.505185 Y27.863447 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9852)
+
+
+(Start cutting path id: path9848)
+(Change tool to Default tool)
+
+M03 S60
+G00 X73.580973 Y252.344221
+
+M03 S80
+G01 X37.183129 Y137.650882 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9848)
+
+
+(Start cutting path id: path9844)
+(Change tool to Default tool)
+
+M03 S60
+G00 X363.616461 Y209.152547
+
+M03 S80
+G01 X195.862526 Y234.134151 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9844)
+
+
+(Start cutting path id: path9840)
+(Change tool to Default tool)
+
+M03 S60
+G00 X300.565022 Y10.470975
+
+M03 S80
+G01 X336.974861 Y125.202766 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9840)
+
+
+(Start cutting path id: path9836)
+(Change tool to Default tool)
+
+M03 S60
+G00 X10.529852 Y53.662472
+
+M03 S80
+G01 X178.562129 Y28.639241 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9836)
+
+
+(Start cutting path id: path9832)
+(Change tool to Default tool)
+
+M03 S60
+G00 X79.886170 Y252.344221
+
+M03 S80
+G01 X38.272506 Y135.726832 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9832)
+
+
+(Start cutting path id: path9828)
+(Change tool to Default tool)
+
+M03 S60
+G00 X363.616461 Y204.833454
+
+M03 S80
+G01 X193.377912 Y233.340013 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9828)
+
+
+(Start cutting path id: path9824)
+(Change tool to Default tool)
+
+M03 S60
+G00 X294.259790 Y10.470975
+
+M03 S80
+G01 X335.873807 Y127.088363 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9824)
+
+
+(Start cutting path id: path9820)
+(Change tool to Default tool)
+
+M03 S60
+G00 X10.529852 Y57.981953
+
+M03 S80
+G01 X181.147990 Y29.411894 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9820)
+
+
+(Start cutting path id: path9816)
+(Change tool to Default tool)
+
+M03 S60
+G00 X86.191226 Y252.344221
+
+M03 S80
+G01 X39.281310 Y133.998927 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9816)
+
+
+(Start cutting path id: path9812)
+(Change tool to Default tool)
+
+M03 S60
+G00 X363.616461 Y200.514325
+
+M03 S80
+G01 X191.163174 Y232.732812 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9812)
+
+
+(Start cutting path id: path9808)
+(Change tool to Default tool)
+
+M03 S60
+G00 X287.954594 Y10.470975
+
+M03 S80
+G01 X334.956585 Y128.920691 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9808)
+
+
+(Start cutting path id: path9804)
+(Change tool to Default tool)
+
+M03 S60
+G00 X10.529852 Y62.301082
+
+M03 S80
+G01 X182.983140 Y30.082596 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9804)
+
+
+(Start cutting path id: path9800)
+(Change tool to Default tool)
+
+M03 S60
+G00 X92.496422 Y252.344221
+
+M03 S80
+G01 X39.855985 Y133.014677 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9800)
+
+
+(Start cutting path id: path9796)
+(Change tool to Default tool)
+
+M03 S60
+G00 X363.616461 Y196.195020
+
+M03 S80
+G01 X189.419393 Y232.254904 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9796)
+
+
+(Start cutting path id: path9792)
+(Change tool to Default tool)
+
+M03 S60
+G00 X281.650067 Y10.470975
+
+M03 S80
+G01 X334.290505 Y129.800519 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9792)
+
+
+(Start cutting path id: path9788)
+(Change tool to Default tool)
+
+M03 S60
+G00 X10.529852 Y66.620175
+
+M03 S80
+G01 X184.726920 Y30.560292 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9788)
+
+
+(Start cutting path id: path9784)
+(Change tool to Default tool)
+
+M03 S60
+G00 X98.801478 Y252.344221
+
+M03 S80
+G01 X40.164877 Y132.068174 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9784)
+
+
+(Start cutting path id: path9780)
+(Change tool to Default tool)
+
+M03 S60
+G00 X363.616461 Y191.875927
+
+M03 S80
+G01 X187.879518 Y232.004043 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9780)
+
+
+(Start cutting path id: path9776)
+(Change tool to Default tool)
+
+M03 S60
+G00 X275.344835 Y10.470975
+
+M03 S80
+G01 X333.885834 Y130.619316 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9776)
+
+
+(Start cutting path id: path9772)
+(Change tool to Default tool)
+
+M03 S60
+G00 X10.529852 Y70.939304
+
+M03 S80
+G01 X186.266442 Y30.811187 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9772)
+
+
+(Start cutting path id: path9768)
+(Change tool to Default tool)
+
+M03 S60
+G00 X105.106498 Y252.344221
+
+M03 S80
+G01 X40.586623 Y131.683294 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9768)
+
+
+(Start cutting path id: path9764)
+(Change tool to Default tool)
+
+M03 S60
+G00 X363.616461 Y187.556798
+
+M03 S80
+G01 X187.377868 Y231.725631 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9764)
+
+
+(Start cutting path id: path9760)
+(Change tool to Default tool)
+
+M03 S60
+G00 X269.039638 Y10.470975
+
+M03 S80
+G01 X333.533761 Y131.095213 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9760)
+
+
+(Start cutting path id: path9756)
+(Change tool to Default tool)
+
+M03 S60
+G00 X10.529852 Y75.258397
+
+M03 S80
+G01 X186.768092 Y31.089564 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9756)
+
+
+(Start cutting path id: path9752)
+(Change tool to Default tool)
+
+M03 S60
+G00 X111.411730 Y252.344221
+
+M03 S80
+G01 X40.612058 Y131.095213 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9752)
+
+
+(Start cutting path id: path9748)
+(Change tool to Default tool)
+
+M03 S60
+G00 X363.616461 Y183.237529
+
+M03 S80
+G01 X187.034616 Y231.622761 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9748)
+
+
+(Start cutting path id: path9744)
+(Change tool to Default tool)
+
+M03 S60
+G00 X262.734442 Y10.470975
+
+M03 S80
+G01 X333.398295 Y131.385549 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9744)
+
+
+(Start cutting path id: path9740)
+(Change tool to Default tool)
+
+M03 S60
+G00 X10.529852 Y79.577526
+
+M03 S80
+G01 X187.111698 Y31.192646 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9740)
+
+
+(Start cutting path id: path9736)
+(Change tool to Default tool)
+
+M03 S60
+G00 X117.716751 Y252.344221
+
+M03 S80
+G01 X40.807320 Y131.385549 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9736)
+
+
+(Start cutting path id: path9732)
+(Change tool to Default tool)
+
+M03 S60
+G00 X363.616461 Y178.918400
+
+M03 S80
+G01 X187.034616 Y231.622691 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9732)
+
+
+(Start cutting path id: path9728)
+(Change tool to Default tool)
+
+M03 S60
+G00 X256.429210 Y10.470975
+
+M03 S80
+G01 X333.398259 Y131.385549 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9728)
+
+
+(Start cutting path id: path9724)
+(Change tool to Default tool)
+
+M03 S60
+G00 X10.529852 Y83.896654
+
+M03 S80
+G01 X187.475764 Y31.060778 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9724)
+
+
+(Start cutting path id: path9720)
+(Change tool to Default tool)
+
+M03 S60
+G00 X124.021983 Y252.344221
+
+M03 S80
+G01 X40.586870 Y131.683294 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9720)
+
+
+(Start cutting path id: path9716)
+(Change tool to Default tool)
+
+M03 S60
+G00 X363.616461 Y174.599271
+
+M03 S80
+G01 X187.377868 Y231.725278 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9716)
+
+
+(Start cutting path id: path9712)
+(Change tool to Default tool)
+
+M03 S60
+G00 X250.124013 Y10.470975
+
+M03 S80
+G01 X333.533726 Y131.095213 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9712)
+
+
+(Start cutting path id: path9708)
+(Change tool to Default tool)
+
+M03 S60
+G00 X10.529852 Y88.216100
+
+M03 S80
+G01 X186.768092 Y31.089741 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9708)
+
+
+(Start cutting path id: path9704)
+(Change tool to Default tool)
+
+M03 S60
+G00 X130.327003 Y252.344221
+
+M03 S80
+G01 X40.164771 Y132.068174 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9704)
+
+
+(Start cutting path id: path9700)
+(Change tool to Default tool)
+
+M03 S60
+G00 X363.616461 Y170.280002
+
+M03 S80
+G01 X188.303910 Y231.949433 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9700)
+
+
+(Start cutting path id: path9696)
+(Change tool to Default tool)
+
+M03 S60
+G00 X243.818781 Y10.470975
+
+M03 S80
+G01 X333.886116 Y130.619316 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9696)
+
+
+(Start cutting path id: path9692)
+(Change tool to Default tool)
+
+M03 S60
+G00 X10.529852 Y92.535229
+
+M03 S80
+G01 X185.922484 Y30.836870 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9692)
+
+
+(Start cutting path id: path9688)
+(Change tool to Default tool)
+
+M03 S60
+G00 X136.632235 Y252.344221
+
+M03 S80
+G01 X39.856126 Y133.014677 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9688)
+
+
+(Start cutting path id: path9684)
+(Change tool to Default tool)
+
+M03 S60
+G00 X363.616461 Y165.960873
+
+M03 S80
+G01 X189.419393 Y232.254868 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9684)
+
+
+(Start cutting path id: path9680)
+(Change tool to Default tool)
+
+M03 S60
+G00 X237.514254 Y10.470975
+
+M03 S80
+G01 X334.290364 Y129.800519 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9680)
+
+
+(Start cutting path id: path9676)
+(Change tool to Default tool)
+
+M03 S60
+G00 X10.529852 Y96.854322
+
+M03 S80
+G01 X184.726920 Y30.560327 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9676)
+
+
+(Start cutting path id: path9672)
+(Change tool to Default tool)
+
+M03 S60
+G00 X142.937256 Y252.344221
+
+M03 S80
+G01 X39.281274 Y133.998927 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9672)
+
+
+(Start cutting path id: path9668)
+(Change tool to Default tool)
+
+M03 S60
+G00 X363.616461 Y161.641780
+
+M03 S80
+G01 X190.855904 Y232.648886 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9668)
+
+
+(Start cutting path id: path9664)
+(Change tool to Default tool)
+
+M03 S60
+G00 X231.209058 Y10.470975
+
+M03 S80
+G01 X334.956761 Y128.920691 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9664)
+
+
+(Start cutting path id: path9660)
+(Change tool to Default tool)
+
+M03 S60
+G00 X10.529852 Y101.173451
+
+M03 S80
+G01 X183.290056 Y30.166345 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9660)
+
+
+(Start cutting path id: path9656)
+(Change tool to Default tool)
+
+M03 S60
+G00 X149.242311 Y252.344221
+
+M03 S80
+G01 X38.527600 Y135.133460 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9656)
+
+
+(Start cutting path id: path9652)
+(Change tool to Default tool)
+
+M03 S60
+G00 X363.616461 Y157.322651
+
+M03 S80
+G01 X192.598626 Y233.126476 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9652)
+
+
+(Start cutting path id: path9648)
+(Change tool to Default tool)
+
+M03 S60
+G00 X224.903826 Y10.470975
+
+M03 S80
+G01 X335.562445 Y127.622116 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9648)
+
+
+(Start cutting path id: path9644)
+(Change tool to Default tool)
+
+M03 S60
+G00 X10.529852 Y105.492579
+
+M03 S80
+G01 X181.547334 Y29.688754 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9644)
+
+
+(Start cutting path id: path9640)
+(Change tool to Default tool)
+
+M03 S60
+G00 X155.547508 Y252.344221
+
+M03 S80
+G01 X37.770892 Y136.585846 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9640)
+
+
+(Start cutting path id: path9636)
+(Change tool to Default tool)
+
+M03 S60
+G00 X363.616461 Y153.003346
+
+M03 S80
+G01 X194.632390 Y233.683265 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9636)
+
+
+(Start cutting path id: path9632)
+(Change tool to Default tool)
+
+M03 S60
+G00 X218.598629 Y10.470975
+
+M03 S80
+G01 X336.387945 Y126.241344 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9632)
+
+
+(Start cutting path id: path9628)
+(Change tool to Default tool)
+
+M03 S60
+G00 X10.529852 Y109.811673
+
+M03 S80
+G01 X179.513923 Y29.132106 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9628)
+
+
+(Start cutting path id: path9624)
+(Change tool to Default tool)
+
+M03 S60
+G00 X161.852564 Y252.344221
+
+M03 S80
+G01 X36.846826 Y138.168054 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9624)
+
+
+(Start cutting path id: path9620)
+(Change tool to Default tool)
+
+M03 S60
+G00 X363.616461 Y148.684253
+
+M03 S80
+G01 X196.995648 Y234.288597 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9620)
+
+
+(Start cutting path id: path9616)
+(Change tool to Default tool)
+
+M03 S60
+G00 X212.293397 Y10.470975
+
+M03 S80
+G01 X337.258565 Y124.610100 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9616)
+
+
+(Start cutting path id: path9612)
+(Change tool to Default tool)
+
+M03 S60
+G00 X10.529852 Y114.130801
+
+M03 S80
+G01 X177.150312 Y28.526810 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9612)
+
+
+(Start cutting path id: path9608)
+(Change tool to Default tool)
+
+M03 S60
+G00 X168.157760 Y252.344221
+
+M03 S80
+G01 X35.919726 Y140.016962 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9608)
+
+
+(Start cutting path id: path9604)
+(Change tool to Default tool)
+
+M03 S60
+G00 X363.616461 Y144.365125
+
+M03 S80
+G01 X199.504604 Y235.026890 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9604)
+
+
+(Start cutting path id: path9600)
+(Change tool to Default tool)
+
+M03 S60
+G00 X205.988200 Y10.470975
+
+M03 S80
+G01 X338.226235 Y122.798233 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9600)
+
+
+(Start cutting path id: path9596)
+(Change tool to Default tool)
+
+M03 S60
+G00 X10.529852 Y118.450247
+
+M03 S80
+G01 X174.505185 Y27.863623 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9596)
+
+
+(Start cutting path id: path9592)
+(Change tool to Default tool)
+
+M03 S60
+G00 X174.462816 Y252.344221
+
+M03 S80
+G01 X34.860193 Y142.000279 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9592)
+
+
+(Start cutting path id: path9588)
+(Change tool to Default tool)
+
+M03 S60
+G00 X363.616461 Y140.045996
+
+M03 S80
+G01 X202.536728 Y235.677342 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9588)
+
+
+(Start cutting path id: path9584)
+(Change tool to Default tool)
+
+M03 S60
+G00 X199.682968 Y10.470975
+
+M03 S80
+G01 X339.285944 Y120.814917 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9584)
+
+
+(Start cutting path id: path9580)
+(Change tool to Default tool)
+
+M03 S60
+G00 X10.529852 Y122.769376
+
+M03 S80
+G01 X171.609585 Y27.138030 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9580)
+
+
+(Start cutting path id: path9576)
+(Change tool to Default tool)
+
+M03 S60
+G00 X180.767872 Y252.344221
+
+M03 S80
+G01 X33.744216 Y144.168804 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9576)
+
+
+(Start cutting path id: path9572)
+(Change tool to Default tool)
+
+M03 S60
+G00 X363.616461 Y135.726726
+
+M03 S80
+G01 X205.701498 Y236.441952 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9572)
+
+
+(Start cutting path id: path9568)
+(Change tool to Default tool)
+
+M03 S60
+G00 X193.378442 Y10.470975
+
+M03 S80
+G01 X340.402097 Y118.646392 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9568)
+
+
+(Start cutting path id: path9564)
+(Change tool to Default tool)
+
+M03 S60
+G00 X10.529852 Y127.088504
+
+M03 S80
+G01 X168.444463 Y26.373279 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9564)
+
+
+(Start cutting path id: path9560)
+(Change tool to Default tool)
+
+M03 S60
+G00 X187.073245 Y252.344221
+
+M03 S80
+G01 X32.497676 Y146.456215 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9560)
+
+
+(Start cutting path id: path9556)
+(Change tool to Default tool)
+
+M03 S60
+G00 X363.616461 Y131.407598
+
+M03 S80
+G01 X209.141081 Y237.227165 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9556)
+
+
+(Start cutting path id: path9552)
+(Change tool to Default tool)
+
+M03 S60
+G00 X187.073245 Y10.470975
+
+M03 S80
+G01 X341.651283 Y116.389672 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9552)
+
+
+(Start cutting path id: path9548)
+(Change tool to Default tool)
+
+M03 S60
+G00 X10.529852 Y131.407598
+
+M03 S80
+G01 X165.005233 Y25.588031 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9548)
+
+
+(Start cutting path id: path9544)
+(Change tool to Default tool)
+
+M03 S60
+G00 X193.378442 Y252.344221
+
+M03 S80
+G01 X31.380781 Y149.025142 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9544)
+
+
+(Start cutting path id: path9540)
+(Change tool to Default tool)
+
+M03 S60
+G00 X363.616461 Y127.088504
+
+M03 S80
+G01 X212.791625 Y238.060743 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9540)
+
+
+(Start cutting path id: path9536)
+(Change tool to Default tool)
+
+M03 S60
+G00 X180.767872 Y10.470975
+
+M03 S80
+G01 X342.765532 Y113.790053 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9536)
+
+
+(Start cutting path id: path9532)
+(Change tool to Default tool)
+
+M03 S60
+G00 X10.529852 Y135.726726
+
+M03 S80
+G01 X161.354688 Y24.754840 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9532)
+
+
+(Start cutting path id: path9528)
+(Change tool to Default tool)
+
+M03 S60
+G00 X199.682968 Y252.344221
+
+M03 S80
+G01 X30.165497 Y151.703431 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9528)
+
+
+(Start cutting path id: path9524)
+(Change tool to Default tool)
+
+M03 S60
+G00 X363.616461 Y122.769376
+
+M03 S80
+G01 X216.701108 Y238.893228 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9524)
+
+
+(Start cutting path id: path9520)
+(Change tool to Default tool)
+
+M03 S60
+G00 X174.462816 Y10.470975
+
+M03 S80
+G01 X343.980640 Y111.111765 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9520)
+
+
+(Start cutting path id: path9516)
+(Change tool to Default tool)
+
+M03 S60
+G00 X10.529852 Y140.045996
+
+M03 S80
+G01 X157.504119 Y23.875224 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9516)
+
+
+(Start cutting path id: path9512)
+(Change tool to Default tool)
+
+M03 S60
+G00 X205.988200 Y252.344221
+
+M03 S80
+G01 X28.920580 Y154.524595 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9512)
+
+
+(Start cutting path id: path9508)
+(Change tool to Default tool)
+
+M03 S60
+G00 X363.616461 Y118.450247
+
+M03 S80
+G01 X220.819435 Y239.746527 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9508)
+
+
+(Start cutting path id: path9504)
+(Change tool to Default tool)
+
+M03 S60
+G00 X168.157760 Y10.470975
+
+M03 S80
+G01 X345.225733 Y108.290601 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9504)
+
+
+(Start cutting path id: path9500)
+(Change tool to Default tool)
+
+M03 S60
+G00 X10.529852 Y144.365125
+
+M03 S80
+G01 X153.380147 Y23.023689 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9500)
+
+
+(Start cutting path id: path9496)
+(Change tool to Default tool)
+
+M03 S60
+G00 X212.293397 Y252.344221
+
+M03 S80
+G01 X27.622358 Y157.465703 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9496)
+
+
+(Start cutting path id: path9492)
+(Change tool to Default tool)
+
+M03 S60
+G00 X363.616461 Y114.130801
+
+M03 S80
+G01 X225.141668 Y240.609034 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9492)
+
+
+(Start cutting path id: path9488)
+(Change tool to Default tool)
+
+M03 S60
+G00 X161.852564 Y10.470975
+
+M03 S80
+G01 X346.485503 Y105.329737 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9488)
+
+
+(Start cutting path id: path9484)
+(Change tool to Default tool)
+
+M03 S60
+G00 X10.529852 Y148.684253
+
+M03 S80
+G01 X149.004292 Y22.206021 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9484)
+
+
+(Start cutting path id: path9480)
+(Change tool to Default tool)
+
+M03 S60
+G00 X218.598629 Y252.344221
+
+M03 S80
+G01 X26.424007 Y160.592019 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9480)
+
+
+(Start cutting path id: path9476)
+(Change tool to Default tool)
+
+M03 S60
+G00 X363.616461 Y109.811673
+
+M03 S80
+G01 X229.676626 Y241.456335 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9476)
+
+
+(Start cutting path id: path9472)
+(Change tool to Default tool)
+
+M03 S60
+G00 X155.547508 Y10.470975
+
+M03 S80
+G01 X347.722130 Y102.223176 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9472)
+
+
+(Start cutting path id: path9468)
+(Change tool to Default tool)
+
+M03 S60
+G00 X10.529852 Y153.003346
+
+M03 S80
+G01 X144.469687 Y21.358684 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9468)
+
+
+(Start cutting path id: path9464)
+(Change tool to Default tool)
+
+M03 S60
+G00 X224.903826 Y252.344221
+
+M03 S80
+G01 X25.171646 Y163.801238 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9464)
+
+
+(Start cutting path id: path9460)
+(Change tool to Default tool)
+
+M03 S60
+G00 X363.616461 Y105.492579
+
+M03 S80
+G01 X234.375626 Y242.316372 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9460)
+
+
+(Start cutting path id: path9456)
+(Change tool to Default tool)
+
+M03 S60
+G00 X149.242311 Y10.470975
+
+M03 S80
+G01 X348.977666 Y99.004079 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9456)
+
+
+(Start cutting path id: path9452)
+(Change tool to Default tool)
+
+M03 S60
+G00 X10.529852 Y157.322651
+
+M03 S80
+G01 X139.770334 Y20.498859 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9452)
+
+
+(Start cutting path id: path9448)
+(Change tool to Default tool)
+
+M03 S60
+G00 X231.209058 Y252.344221
+
+M03 S80
+G01 X23.971179 Y167.166385 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9448)
+
+
+(Start cutting path id: path9444)
+(Change tool to Default tool)
+
+M03 S60
+G00 X363.616461 Y101.173451
+
+M03 S80
+G01 X239.273240 Y243.136863 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9444)
+
+
+(Start cutting path id: path9440)
+(Change tool to Default tool)
+
+M03 S60
+G00 X142.937256 Y10.470975
+
+M03 S80
+G01 X350.175135 Y95.648810 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9440)
+
+
+(Start cutting path id: path9436)
+(Change tool to Default tool)
+
+M03 S60
+G00 X10.529852 Y161.641780
+
+M03 S80
+G01 X134.872721 Y19.678368 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9436)
+
+
+(Start cutting path id: path9432)
+(Change tool to Default tool)
+
+M03 S60
+G00 X237.514254 Y252.344221
+
+M03 S80
+G01 X22.759387 Y170.615141 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9432)
+
+
+(Start cutting path id: path9428)
+(Change tool to Default tool)
+
+M03 S60
+G00 X363.616461 Y96.854322
+
+M03 S80
+G01 X244.308084 Y243.966525 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9428)
+
+
+(Start cutting path id: path9424)
+(Change tool to Default tool)
+
+M03 S60
+G00 X136.632235 Y10.470975
+
+M03 S80
+G01 X351.386397 Y92.200055 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9424)
+
+
+(Start cutting path id: path9420)
+(Change tool to Default tool)
+
+M03 S60
+G00 X10.529852 Y165.960873
+
+M03 S80
+G01 X129.837877 Y18.848670 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9420)
+
+
+(Start cutting path id: path9416)
+(Change tool to Default tool)
+
+M03 S60
+G00 X243.818781 Y252.344221
+
+M03 S80
+G01 X21.627006 Y174.183840 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9416)
+
+
+(Start cutting path id: path9412)
+(Change tool to Default tool)
+
+M03 S60
+G00 X363.616461 Y92.535229
+
+M03 S80
+G01 X249.517553 Y244.742601 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9412)
+
+
+(Start cutting path id: path9408)
+(Change tool to Default tool)
+
+M03 S60
+G00 X130.327003 Y10.470975
+
+M03 S80
+G01 X352.519131 Y88.631355 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9408)
+
+
+(Start cutting path id: path9404)
+(Change tool to Default tool)
+
+M03 S60
+G00 X10.529852 Y170.280002
+
+M03 S80
+G01 X124.628408 Y18.072983 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9404)
+
+
+(Start cutting path id: path9400)
+(Change tool to Default tool)
+
+M03 S60
+G00 X250.124013 Y252.344221
+
+M03 S80
+G01 X20.471694 Y177.825212 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9400)
+
+
+(Start cutting path id: path9396)
+(Change tool to Default tool)
+
+M03 S60
+G00 X363.616461 Y88.216100
+
+M03 S80
+G01 X254.843086 Y245.519347 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9396)
+
+
+(Start cutting path id: path9392)
+(Change tool to Default tool)
+
+M03 S60
+G00 X124.021983 Y10.470975
+
+M03 S80
+G01 X353.674655 Y84.989983 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9392)
+
+
+(Start cutting path id: path9388)
+(Change tool to Default tool)
+
+M03 S60
+G00 X10.529852 Y174.599271
+
+M03 S80
+G01 X119.302875 Y17.295672 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9388)
+
+
+(Start cutting path id: path9384)
+(Change tool to Default tool)
+
+M03 S60
+G00 X256.429210 Y252.344221
+
+M03 S80
+G01 X19.428883 Y181.575593 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9384)
+
+
+(Start cutting path id: path9380)
+(Change tool to Default tool)
+
+M03 S60
+G00 X363.616461 Y83.896654
+
+M03 S80
+G01 X260.315374 Y246.237567 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9380)
+
+
+(Start cutting path id: path9376)
+(Change tool to Default tool)
+
+M03 S60
+G00 X117.716751 Y10.470975
+
+M03 S80
+G01 X354.701908 Y81.234664 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9376)
+
+
+(Start cutting path id: path9372)
+(Change tool to Default tool)
+
+M03 S60
+G00 X10.529852 Y178.918400
+
+M03 S80
+G01 X113.830939 Y16.577840 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9372)
+
+
+(Start cutting path id: path9368)
+(Change tool to Default tool)
+
+M03 S60
+G00 X262.734442 Y252.344221
+
+M03 S80
+G01 X18.366351 Y185.384887 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9368)
+
+
+(Start cutting path id: path9364)
+(Change tool to Default tool)
+
+M03 S60
+G00 X363.616461 Y79.577526
+
+M03 S80
+G01 X265.801774 Y247.091219 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9364)
+
+
+(Start cutting path id: path9360)
+(Change tool to Default tool)
+
+M03 S60
+G00 X111.411730 Y10.470975
+
+M03 S80
+G01 X355.765710 Y77.426428 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9360)
+
+
+(Start cutting path id: path9356)
+(Change tool to Default tool)
+
+M03 S60
+G00 X10.529852 Y183.237529
+
+M03 S80
+G01 X108.259167 Y15.869885 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9356)
+
+
+(Start cutting path id: path9352)
+(Change tool to Default tool)
+
+M03 S60
+G00 X269.039638 Y252.344221
+
+M03 S80
+G01 X17.463240 Y189.294370 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9352)
+
+
+(Start cutting path id: path9348)
+(Change tool to Default tool)
+
+M03 S60
+G00 X363.616461 Y75.258397
+
+M03 S80
+G01 X271.494548 Y247.747668 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9348)
+
+
+(Start cutting path id: path9344)
+(Change tool to Default tool)
+
+M03 S60
+G00 X105.106498 Y10.470975
+
+M03 S80
+G01 X356.682896 Y73.520826 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9344)
+
+
+(Start cutting path id: path9340)
+(Change tool to Default tool)
+
+M03 S60
+G00 X10.529852 Y187.556798
+
+M03 S80
+G01 X102.569921 Y15.220281 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9340)
+
+
+(Start cutting path id: path9336)
+(Change tool to Default tool)
+
+M03 S60
+G00 X275.344835 Y252.344221
+
+M03 S80
+G01 X16.548135 Y193.250067 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9336)
+
+
+(Start cutting path id: path9332)
+(Change tool to Default tool)
+
+M03 S60
+G00 X363.616461 Y70.939304
+
+M03 S80
+G01 X277.335489 Y248.252457 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9332)
+
+
+(Start cutting path id: path9328)
+(Change tool to Default tool)
+
+M03 S60
+G00 X98.801478 Y10.470975
+
+M03 S80
+G01 X357.597825 Y69.565129 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9328)
+
+
+(Start cutting path id: path9324)
+(Change tool to Default tool)
+
+M03 S60
+G00 X10.529852 Y191.875927
+
+M03 S80
+G01 X96.810471 Y14.562773 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9324)
+
+
+(Start cutting path id: path9320)
+(Change tool to Default tool)
+
+M03 S60
+G00 X281.650067 Y252.344221
+
+M03 S80
+G01 X15.710323 Y197.267853 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9320)
+
+
+(Start cutting path id: path9316)
+(Change tool to Default tool)
+
+M03 S60
+G00 X363.616461 Y66.620175
+
+M03 S80
+G01 X283.216295 Y248.795312 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9316)
+
+
+(Start cutting path id: path9312)
+(Change tool to Default tool)
+
+M03 S60
+G00 X92.496422 Y10.470975
+
+M03 S80
+G01 X358.435814 Y65.547343 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9312)
+
+
+(Start cutting path id: path9308)
+(Change tool to Default tool)
+
+M03 S60
+G00 X10.529852 Y196.195020
+
+M03 S80
+G01 X90.930019 Y14.019884 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9308)
+
+
+(Start cutting path id: path9304)
+(Change tool to Default tool)
+
+M03 S60
+G00 X287.954594 Y252.344221
+
+M03 S80
+G01 X14.925781 Y201.335380 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9304)
+
+
+(Start cutting path id: path9300)
+(Change tool to Default tool)
+
+M03 S60
+G00 X363.616461 Y62.301082
+
+M03 S80
+G01 X289.153544 Y249.332910 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9300)
+
+
+(Start cutting path id: path9296)
+(Change tool to Default tool)
+
+M03 S60
+G00 X86.191226 Y10.470975
+
+M03 S80
+G01 X359.220391 Y61.479815 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9296)
+
+
+(Start cutting path id: path9292)
+(Change tool to Default tool)
+
+M03 S60
+G00 X10.529852 Y200.514325
+
+M03 S80
+G01 X84.988536 Y13.492375 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9292)
+
+
+(Start cutting path id: path9288)
+(Change tool to Default tool)
+
+M03 S60
+G00 X294.259790 Y252.344221
+
+M03 S80
+G01 X14.205408 Y205.448769 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9288)
+
+
+(Start cutting path id: path9284)
+(Change tool to Default tool)
+
+M03 S60
+G00 X363.616461 Y57.981953
+
+M03 S80
+G01 X295.158174 Y249.826728 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9284)
+
+
+(Start cutting path id: path9280)
+(Change tool to Default tool)
+
+M03 S60
+G00 X79.886170 Y10.470975
+
+M03 S80
+G01 X359.940552 Y57.366427 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9280)
+
+
+(Start cutting path id: path9276)
+(Change tool to Default tool)
+
+M03 S60
+G00 X10.529852 Y204.833454
+
+M03 S80
+G01 X78.984611 Y12.997146 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9276)
+
+
+(Start cutting path id: path9272)
+(Change tool to Default tool)
+
+M03 S60
+G00 X300.565022 Y252.344221
+
+M03 S80
+G01 X13.555980 Y209.603079 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9272)
+
+
+(Start cutting path id: path9268)
+(Change tool to Default tool)
+
+M03 S60
+G00 X363.616461 Y53.662472
+
+M03 S80
+G01 X301.223129 Y250.271158 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9268)
+
+
+(Start cutting path id: path9264)
+(Change tool to Default tool)
+
+M03 S60
+G00 X73.580973 Y10.470975
+
+M03 S80
+G01 X360.590369 Y53.212116 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9264)
+
+
+(Start cutting path id: path9260)
+(Change tool to Default tool)
+
+M03 S60
+G00 X10.529852 Y209.152547
+
+M03 S80
+G01 X72.923184 Y12.543862 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9260)
+
+
+(Start cutting path id: path9256)
+(Change tool to Default tool)
+
+M03 S60
+G00 X306.870219 Y252.344221
+
+M03 S80
+G01 X12.956963 Y213.790199 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9256)
+
+
+(Start cutting path id: path9252)
+(Change tool to Default tool)
+
+M03 S60
+G00 X363.616461 Y49.343379
+
+M03 S80
+G01 X307.334651 Y250.681403 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9252)
+
+
+(Start cutting path id: path9248)
+(Change tool to Default tool)
+
+M03 S60
+G00 X67.275918 Y10.470975
+
+M03 S80
+G01 X361.189174 Y49.024997 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9248)
+
+
+(Start cutting path id: path9244)
+(Change tool to Default tool)
+
+M03 S60
+G00 X10.529852 Y213.471676
+
+M03 S80
+G01 X66.712884 Y12.102607 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9244)
+
+
+(Start cutting path id: path9240)
+(Change tool to Default tool)
+
+M03 S60
+G00 X313.175451 Y252.344221
+
+M03 S80
+G01 X12.450410 Y218.010126 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9240)
+
+
+(Start cutting path id: path9236)
+(Change tool to Default tool)
+
+M03 S60
+G00 X363.616461 Y45.024250
+
+M03 S80
+G01 X313.494503 Y251.031993 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9236)
+
+
+(Start cutting path id: path9232)
+(Change tool to Default tool)
+
+M03 S60
+G00 X60.970686 Y10.470975
+
+M03 S80
+G01 X361.701019 Y44.805775 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9232)
+
+
+(Start cutting path id: path9228)
+(Change tool to Default tool)
+
+M03 S60
+G00 X10.529852 Y217.790945
+
+M03 S80
+G01 X60.666626 Y11.721113 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9228)
+
+
+(Start cutting path id: path9224)
+(Change tool to Default tool)
+
+M03 S60
+G00 X319.480648 Y252.344221
+
+M03 S80
+G01 X11.973101 Y222.251220 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9224)
+
+
+(Start cutting path id: path9220)
+(Change tool to Default tool)
+
+M03 S60
+G00 X363.616461 Y40.705157
+
+M03 S80
+G01 X319.686106 Y251.358277 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9220)
+
+
+(Start cutting path id: path9216)
+(Change tool to Default tool)
+
+M03 S60
+G00 X54.665665 Y10.470975
+
+M03 S80
+G01 X362.177092 Y40.564328 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9216)
+
+
+(Start cutting path id: path9212)
+(Change tool to Default tool)
+
+M03 S60
+G00 X10.529852 Y222.110074
+
+M03 S80
+G01 X54.519121 Y11.172967 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9212)
+
+
+(Start cutting path id: path9208)
+(Change tool to Default tool)
+
+M03 S60
+G00 X325.785880 Y252.344221
+
+M03 S80
+G01 X11.593195 Y226.516656 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9208)
+
+
+(Start cutting path id: path9204)
+(Change tool to Default tool)
+
+M03 S60
+G00 X363.616461 Y36.386028
+
+M03 S80
+G01 X325.913339 Y251.615735 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9204)
+
+
+(Start cutting path id: path9200)
+(Change tool to Default tool)
+
+M03 S60
+G00 X48.360610 Y10.470975
+
+M03 S80
+G01 X362.545886 Y36.386028 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9200)
+
+
+(Start cutting path id: path9196)
+(Change tool to Default tool)
+
+M03 S60
+G00 X10.529852 Y226.429202
+
+M03 S80
+G01 X48.232975 Y11.199496 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9196)
+
+
+(Start cutting path id: path9192)
+(Change tool to Default tool)
+
+M03 S60
+G00 X332.091077 Y252.344221
+
+M03 S80
+G01 X11.239712 Y230.796203 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9192)
+
+
+(Start cutting path id: path9188)
+(Change tool to Default tool)
+
+M03 S60
+G00 X363.616461 Y32.066900
+
+M03 S80
+G01 X332.159974 Y251.858022 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9188)
+
+
+(Start cutting path id: path9184)
+(Change tool to Default tool)
+
+M03 S60
+G00 X42.055413 Y10.470975
+
+M03 S80
+G01 X362.906778 Y32.018993 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9184)
+
+
+(Start cutting path id: path9180)
+(Change tool to Default tool)
+
+M03 S60
+G00 X10.529852 Y230.748472
+
+M03 S80
+G01 X42.002919 Y10.837405 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9180)
+
+
+(Start cutting path id: path9176)
+(Change tool to Default tool)
+
+M03 S60
+G00 X338.395603 Y252.344221
+
+M03 S80
+G01 X11.097578 Y235.097622 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9176)
+
+
+(Start cutting path id: path9172)
+(Change tool to Default tool)
+
+M03 S60
+G00 X363.616461 Y27.747807
+
+M03 S80
+G01 X338.395674 Y252.024498 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9172)
+
+
+(Start cutting path id: path9168)
+(Change tool to Default tool)
+
+M03 S60
+G00 X35.750357 Y10.470975
+
+M03 S80
+G01 X363.150688 Y27.723218 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9168)
+
+
+(Start cutting path id: path9164)
+(Change tool to Default tool)
+
+M03 S60
+G00 X10.529852 Y235.067601
+
+M03 S80
+G01 X35.777803 Y10.837476 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9164)
+
+
+(Start cutting path id: path9160)
+(Change tool to Default tool)
+
+M03 S60
+G00 X344.700835 Y252.344221
+
+M03 S80
+G01 X10.990016 Y239.404686 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9160)
+
+
+(Start cutting path id: path9156)
+(Change tool to Default tool)
+
+M03 S60
+G00 X363.616461 Y23.428325
+
+M03 S80
+G01 X344.688523 Y252.496092 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9156)
+
+
+(Start cutting path id: path9152)
+(Change tool to Default tool)
+
+M03 S60
+G00 X29.445160 Y10.470975
+
+M03 S80
+G01 X363.278747 Y23.415449 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9152)
+
+
+(Start cutting path id: path9148)
+(Change tool to Default tool)
+
+M03 S60
+G00 X10.529852 Y239.386694
+
+M03 S80
+G01 X29.445090 Y10.470975 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9148)
+
+
+(Start cutting path id: path9144)
+(Change tool to Default tool)
+
+M03 S60
+G00 X351.006032 Y252.344221
+
+M03 S80
+G01 X10.882771 Y243.714924 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9144)
+
+
+(Start cutting path id: path9140)
+(Change tool to Default tool)
+
+M03 S60
+G00 X351.006032 Y252.344221
+
+M03 S80
+G02 X357.412877 Y135.719222 Z-0.100000 I-20152.154747 J-1165.555533 F400.000000
+G03 X363.593848 Y19.527838 Z-0.100000 I50118.187232 J2607.848533
+M03 S60
+
+(End cutting path id: path9140)
+
+
+(Start cutting path id: path9136)
+(Change tool to Default tool)
+
+M03 S60
+G00 X363.385638 Y19.103376
+
+M03 S80
+G01 X23.139964 Y10.470904 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9136)
+
+
+(Start cutting path id: path9132)
+(Change tool to Default tool)
+
+M03 S60
+G00 X23.140105 Y10.470975
+
+M03 S80
+G01 X10.529711 Y243.705752 Z-0.100000 F400.000000
+M03 S60
+
+(End cutting path id: path9132)
+
+
+(Start cutting path id: path9128)
+(Change tool to Default tool)
+
+M03 S60
+G00 X363.399432 Y18.781925
+
+M03 S80
+G02 X360.557049 Y134.889921 Z-0.100000 I12674.743938 J368.373031 F400.000000
+G03 X357.347177 Y251.114296 Z-0.100000 I-7533.831553 J-149.911997
+M03 S60
+
+(End cutting path id: path9128)
+
+
+(Start cutting path id: path9124)
+(Change tool to Default tool)
+
+M03 S60
+G00 X19.186172 Y10.577090
+
+M03 S80
+G02 X190.457019 Y12.674273 Z-0.100000 R27982.095039 F400.000000
+G03 X361.401405 Y14.756448 Z-0.100000 R28528.963401
+M03 S60
+
+(End cutting path id: path9124)
+
+
+(Start cutting path id: path9120)
+(Change tool to Default tool)
+
+M03 S60
+G00 X10.893143 Y243.891348
+
+M03 S80
+G02 X13.557398 Y127.692368 Z-0.100000 I-15665.286176 J-417.309704 F400.000000
+G03 X16.663529 Y11.454554 Z-0.100000 I7750.643525 J148.953879
+M03 S60
+
+(End cutting path id: path9120)
+
+
+(Start cutting path id: path9116)
+(Change tool to Default tool)
+
+M03 S60
+G00 X354.019812 Y252.272924
+
+M03 S80
+G02 X183.565117 Y250.101447 Z-0.100000 I-410.766395 J25551.695274 F400.000000
+G03 X12.858327 Y247.962686 Z-0.100000 I256.874019 J-27314.936769
+M03 S60
+
+(End cutting path id: path9116)
+
+
+(Footer)
+M5
+G00 X0.0000 Y0.0000
+M2
+(Using default footer. To add your own footer create file "footer" in the output dir.)
+(end)
+%
